@@ -70,8 +70,8 @@ def analyze_to_json(song_audio):
 if __name__ == "__main__":
   #export ECHO_NEST_API_KEY="NSZIGB4XJ7TDKEA6P"
 
-  song_filename = "../data/ketto.mp3"
+  song_filename = "../data/queen.mp3"
   song = audio.LocalAudioFile(song_filename)
 
   j = analyze_to_json(song)
-  #print(j)
+  print(j)
