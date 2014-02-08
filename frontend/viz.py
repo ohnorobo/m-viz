@@ -74,4 +74,4 @@ if __name__ == "__main__":
   song = audio.LocalAudioFile(song_filename)
 
   j = analyze_to_json(song)
-  print(j)
+  #print(j)
