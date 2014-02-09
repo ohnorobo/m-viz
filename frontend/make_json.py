@@ -36,7 +36,7 @@ def analyze_to_json(song_audio):
 
       for beat in bar.children():
         beat_dict = {}
-        beat_dict['tantums'] = []
+        beat_dict['tatums'] = []
 
         beat_dict['pitch'] = beat.mean_pitches()
         beat_dict['timbre'] = beat.mean_timbre()
@@ -44,16 +44,16 @@ def analyze_to_json(song_audio):
         beat_dict['start_time'] = beat.start
         beat_dict['end_time'] = beat.end
 
-        for tantum in beat.children():
-          tantum_dict = {}
+        for tatum in beat.children():
+          tatum_dict = {}
 
-          tantum_dict['pitch'] = tantum.mean_pitches()
-          tantum_dict['timbre'] = tantum.mean_timbre()
-          tantum_dict['loudness'] = tantum.mean_loudness()
-          tantum_dict['start_time'] = tantum.start
-          tantum_dict['end_time'] = tantum.end
+          tatum_dict['pitch'] = tatum.mean_pitches()
+          tatum_dict['timbre'] = tatum.mean_timbre()
+          tatum_dict['loudness'] = tatum.mean_loudness()
+          tatum_dict['start_time'] = tatum.start
+          tatum_dict['end_time'] = tatum.end
 
-          beat_dict['tantums'].append(tantum_dict)
+          beat_dict['tatums'].append(tatum_dict)
         bar_dict['beats'].append(beat_dict)
       section_dict['bars'].append(bar_dict)
     song.append(section_dict)

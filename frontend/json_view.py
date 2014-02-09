@@ -10,7 +10,7 @@ def normalize(array):
   mx = max(array)
   mn = min(array)
 
-  array = map(lambda x: x/mx, array)
+  #array = map(lambda x: x/mx, array)
   array = map(remove_lows, array)
   return array
 
@@ -50,7 +50,7 @@ times = []
 for section in data:
   for bar in section['bars']:
     for beat in bar['beats']:
-      for tatum in beat['tantums']:
+      for tatum in beat['tatums']:
         pitch = tatum['pitch']
         pitch = normalize(pitch)
         pitch = numpy.matrix(pitch).T
