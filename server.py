@@ -1,7 +1,8 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import sys, flask, os, math
+import sys, os, math, random
+import flask
 from glob import glob
 from pprint import pprint
 import pygal
@@ -15,17 +16,23 @@ def normalize(array):
   mx = max(array)
   mn = min(array)
 
-  array = map(norm, array)
+  array = map(jitter, array)
+  array = map(lambda x: norm(x, mx), array)
   array = map(remove_lows, array)
   return array
 
-def norm(x):
+
+def jitter(x):
+  x += random.gauss(0, 0.005)
   return x
+
+def norm(x, mx):
+  return x/(mx + 0.2)
   #x += 1
   #return math.log(x, 2)
 
 def remove_lows(element):
-  if element > 0.4:
+  if element > 0.5:
     return element
   else:
     return None
@@ -80,16 +87,17 @@ def get_viz(name):
               {"key":"a#", "values":[]},
               {"key":"b", "values":[]}]
 
-  for section in data:
+  for section in data[:5]:
     for bar in section['bars']:
       for beat in bar['beats']:
         for tatum in beat['tatums']:
           pitches = tatum['pitch']
           pitches = normalize(pitches)
           time = tatum['start_time']
+          loudness = 10 ** ( -0.01 * tatum['loudness'])
 
           for dat, pitch in zip(new_data, pitches):
-            dat['values'].append({"size":1, "x":time, "y":pitch})
+            dat['values'].append({"size":loudness, "x":time, "y":pitch})
 
   encoded = unidecode(json.dumps(new_data))
   markup = flask.Markup(encoded)
