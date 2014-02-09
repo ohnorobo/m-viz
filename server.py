@@ -20,11 +20,9 @@ def normalize(array):
   return array
 
 def norm(x):
-  x += 1
-  if x == 0:
-    return 0
-  else:
-    return math.log(x, 2)
+  return x
+  #x += 1
+  #return math.log(x, 2)
 
 def remove_lows(element):
   if element > 0.4:
