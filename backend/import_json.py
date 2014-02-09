@@ -3,7 +3,7 @@ from chord_analysis import *
 from pprint import pprint
 
 
-fileBaseName = "queen"
+fileBaseName = "heyya"
 json_data = open('C:/Users/James/workspace/echo/m-viz/templates/jsonfiles/' + fileBaseName + '.json')
 
 def topThree(v):
@@ -13,6 +13,9 @@ def topThree(v):
 	return u[-3:]
 
 def getMode(v):
+	if (not v):
+		return 0
+	
 	myDict = {}
 	for e in v:
 		if (e in myDict):
@@ -104,11 +107,13 @@ for section in data:
 		
 	#pprint(tatumsPerSection)
 	# pprint(getMode(tatumsPerSection))
-	tatumCount = getMode(tatumsPerSection)
+	pprint(tatumsPerSection)
+	
 	pprint("mode")
+	tatumCount = getMode(tatumsPerSection)
 	pprint(tatumCount)
 	pprint(sectionRhythm)
-	sectionRhythm = [int(round(x / (len(section["bars"])))) for x in sectionRhythm]
+	sectionRhythm = [int(round(x / max(1, (len(section["bars"]))))) for x in sectionRhythm]
 	pprint(sectionRhythm)
 	pprint("done rhythms")
 	allRhythms.append(sectionRhythm)
@@ -141,7 +146,7 @@ pprint(allRhythms)
 		
 	
 
-f2 = open("C:/Users/James/workspace/echo/m-viz/templates/jsonfiles/newqueen.json", "w+")
+f2 = open("C:/Users/James/workspace/echo/m-viz/templates/jsonfiles/heyya.json", "w+")
 data2 = json.dumps(data, indent=4)
 f2.write(data2)
 f2.close()
