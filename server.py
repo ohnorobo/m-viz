@@ -70,7 +70,7 @@ def pygal_graph(name, start, end):
   for section in data:
     for bar in section['bars']:
       for beat in bar['beats']:
-        for tatum in beat['tantums']:
+        for tatum in beat['tatums']:
           pitches = tatum['pitch']
           pitches = normalize(pitches)
 
