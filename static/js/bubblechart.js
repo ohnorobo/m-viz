@@ -23,3 +23,6 @@ nv.addGraph(function() {
  function getSongData() { //# groups,# points per group
      return songData;
  }
+
+var audioElement = document.getElementById('audio');
+console.log(audioElement);
