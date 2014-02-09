@@ -1,0 +1,6 @@
+Flask==0.10.1
+Unidecode==0.04.14
+heroku==0.1.4
+numpy==1.6.2
+pygal==1.3.0
+remix==2.2.1
