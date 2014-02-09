@@ -101,7 +101,7 @@ def get_viz(name):
 
   encoded = unidecode(json.dumps(new_data))
   markup = flask.Markup(encoded)
-  return flask.render_template("notes.html", songjson=markup)
+  return flask.render_template("notes.html", songjson=markup, name=name)
 
 @app.route("/viz/pygal/<name>/<start>/<end>")
 def pygal_graph(name, start, end):
