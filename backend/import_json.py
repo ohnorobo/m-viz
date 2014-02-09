@@ -13,57 +13,54 @@ def topThree(v):
 	return u[-3:]
 	
 
-
-
 data = json.load(json_data)
 
-binaryMask = []
+
+binaryMask = [] # corresponds to accented notes
 songPitch = [0]*12
-accentedNotes = []
 
 
 for section in data:
-	sectionBinaryMask = []
-	
-	songPitch = [a+b for a,b in (zip(songPitch, section["pitch"]))]
+	sectionBinaryMask = [] # accented notes in this section
+	songPitch = [a+b for a,b in (zip(songPitch, section["pitch"]))] # add all the pitches from each section
 	
 	
 	for bar in section["bars"]:
-		measureNotes = []
-		binaryLoudnessMask = []
-		binaryTimbreMask = []
+		measureNotes = [] # the sum of the pitches from each accented tatum
+		binaryLoudnessMask = [] # possibly accented vector by loudness
+		binaryTimbreMask = [] # possibly accented vector by timbre[3]
 		measureBinaryMask = [] ### Binary Mask for a measure
 		
 		
 		for beat in bar["beats"]:
-			beatNotes = []
 			beatBinaryMask = [] ### Binary Mask for a beak
 			
 			for tatum in beat["tatums"]:
-				if (tatum["loudness"] > bar["loudness"]):
+				if (tatum["loudness"] > bar["loudness"]): # if this tatum's loudness is greater than the bar's loudness
 					l = 1
 				else:
 					l = 0
 				binaryLoudnessMask.append(l)
 				
-				if (tatum["timbre"][3] > bar["timbre"][3]):
+				if (tatum["timbre"][3] > bar["timbre"][3]): # if this tatum's timbre[3] is greater than the bar's timbre[3]
+															# TIMBRE[7] works better
 					t = 1
 				else: 
 					t = 0
 				binaryTimbreMask.append(t)
 					
-				if (tatum["timbre"][7] > bar["timbre"][7]):
+				if (tatum["timbre"][7] > bar["timbre"][7]): # if this tatum's timbre[7] is greater than the bar's timbre[7]
 					r = 1
 				else: 
 					r = 0
 					
-				d = r# max(l, t)
+				d = r
 				beatBinaryMask.append(d)
 				
-				if (d == 1): 
+				if (d == 1): # if this tatum is accented
 					tatum["onBeat"] = True
 					
-					chord = getChordType(topThree(tatum["pitch"]))
+					chord = getChordType(topThree(tatum["pitch"])) # chord is either "Nope!" or ((value noteIndex), chordType)
 					if (chord == "Nope!"):
 						tatum["chord"] = "None"
 					else:
@@ -76,21 +73,14 @@ for section in data:
 					tatum["chord"] = "None"
 			
 			measureBinaryMask.append(beatBinaryMask)
-			#measureNotes.append(beatNotes)
 			
 		sectionBinaryMask.append(measureBinaryMask)	
-		b = [0]*12
-		
-		for a in measureNotes:
-			b = map(sum, zip(a, b))
-		
-		pprint(getChordType(topThree(list(b))))
 		
 	binaryMask.append(sectionBinaryMask)	
 		
-pprint(songPitch)
-pprint(topThree(songPitch))
-pprint(getChordType(topThree(songPitch)))
+# pprint(songPitch)
+# pprint(topThree(songPitch))
+# pprint(getChordType(topThree(songPitch)))
 
 f2 = open("C:/Users/James/workspace/echo/m-viz/frontend/templates/jsonfiles/newqueen.json", "w+")
 data2 = json.dumps(data, indent=4)
