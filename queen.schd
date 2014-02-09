@@ -1,0 +1,957 @@
+type=s0Start time=0.0
+type=t0b0m0s0Start time=1.45175on_beat=Falsetype=t1b0m0s0Start time=1.62463on_beat=Falsetype=b0m0s0Start time=1.45175
+type=t0b1m0s0Start time=1.79751on_beat=Falsetype=t1b1m0s0Start time=1.97529on_beat=Falsetype=b1m0s0Start time=1.79751
+type=t0b2m0s0Start time=2.15307on_beat=Falsetype=t1b2m0s0Start time=2.33503on_beat=Falsetype=b2m0s0Start time=2.15307
+type=t0b3m0s0Start time=2.51699on_beat=Truet3=(0.678, 9)chord=NoneM7
+type=t1b3m0s0Start time=2.70214on_beat=Truet3=(0.339, 9)chord=NoneM7
+type=b3m0s0Start time=2.51699
+type=m0s0Start time=1.45175
+type=t0b0m1s0Start time=2.88729on_beat=Truet3=(0.3835, 7)chord=None
+type=t1b0m1s0Start time=3.07763on_beat=Falsetype=b0m1s0Start time=2.88729
+type=t0b1m1s0Start time=3.26798on_beat=Falsetype=t1b1m1s0Start time=3.46353on_beat=Falsetype=b1m1s0Start time=3.26798
+type=t0b2m1s0Start time=3.65908on_beat=Falsetype=t1b2m1s0Start time=3.85869on_beat=Falsetype=b2m1s0Start time=3.65908
+type=t0b3m1s0Start time=4.05829on_beat=Truet3=(0.304, 11)chord=NoneM7
+type=t1b3m1s0Start time=4.25743on_beat=Truet3=(0.152, 11)chord=NoneM7
+type=b3m1s0Start time=4.05829
+type=m1s0Start time=2.88729
+type=t0b0m2s0Start time=4.45658on_beat=Truet3=(0.25, 5)chord=None
+type=t1b0m2s0Start time=4.65341on_beat=Truet3=(0.686, 4)chord=NoneMinor
+type=b0m2s0Start time=4.45658
+type=t0b1m2s0Start time=4.85025on_beat=Falsetype=t1b1m2s0Start time=5.04195on_beat=Falsetype=b1m2s0Start time=4.85025
+type=t0b2m2s0Start time=5.23366on_beat=Falsetype=t1b2m2s0Start time=5.42425on_beat=Falsetype=b2m2s0Start time=5.23366
+type=t0b3m2s0Start time=5.61484on_beat=Falsetype=t1b3m2s0Start time=5.80352on_beat=Falsetype=b3m2s0Start time=5.61484
+type=m2s0Start time=4.45658
+type=t0b0m3s0Start time=5.99221on_beat=Falsetype=t1b0m3s0Start time=6.181on_beat=Falsetype=b0m3s0Start time=5.99221
+type=t0b1m3s0Start time=6.3698on_beat=Falsetype=t1b1m3s0Start time=6.55885on_beat=Falsetype=b1m3s0Start time=6.3698
+type=t0b2m3s0Start time=6.7479on_beat=Falsetype=t1b2m3s0Start time=6.93995on_beat=Truet3=(0.477, 4)chord=None
+type=b2m3s0Start time=6.7479
+type=t0b3m3s0Start time=7.132on_beat=Truet3=(0.477, 4)chord=None
+type=t1b3m3s0Start time=7.32352on_beat=Truet3=(0.2385, 4)chord=None
+type=b3m3s0Start time=7.132
+type=m3s0Start time=5.99221
+type=t0b0m4s0Start time=7.51504on_beat=Falsetype=t1b0m4s0Start time=7.7074on_beat=Falsetype=b0m4s0Start time=7.51504
+type=t0b1m4s0Start time=7.89975on_beat=Truet3=(0.788, 9)chord=None
+type=t1b1m4s0Start time=8.08992on_beat=Truet3=(0.394, 9)chord=None
+type=b1m4s0Start time=7.89975
+type=t0b2m4s0Start time=8.28009on_beat=Falsetype=t1b2m4s0Start time=8.47006on_beat=Falsetype=b2m4s0Start time=8.28009
+type=t0b3m4s0Start time=8.66002on_beat=Falsetype=t1b3m4s0Start time=8.84868on_beat=Falsetype=b3m4s0Start time=8.66002
+type=m4s0Start time=7.51504
+type=t0b0m5s0Start time=9.03733on_beat=Falsetype=t1b0m5s0Start time=9.22569on_beat=Truet3=(0.457, 2)chord=None
+type=b0m5s0Start time=9.03733
+type=t0b1m5s0Start time=9.41405on_beat=Truet3=(0.966, 9)chord=None
+type=t1b1m5s0Start time=9.60068on_beat=Truet3=(0.966, 9)chord=None
+type=b1m5s0Start time=9.41405
+type=t0b2m5s0Start time=9.78732on_beat=Truet3=(0.483, 9)chord=None
+type=t1b2m5s0Start time=9.97736on_beat=Truet3=(0.583, 10)chord=None
+type=b2m5s0Start time=9.78732
+type=t0b3m5s0Start time=10.16739on_beat=Truet3=(0.583, 10)chord=None
+type=t1b3m5s0Start time=10.35685on_beat=Truet3=(0.2915, 10)chord=None
+type=b3m5s0Start time=10.16739
+type=m5s0Start time=9.03733
+type=t0b0m6s0Start time=10.54631on_beat=Falsetype=t1b0m6s0Start time=10.74134on_beat=Falsetype=b0m6s0Start time=10.54631
+type=t0b1m6s0Start time=10.93638on_beat=Falsetype=t1b1m6s0Start time=11.13394on_beat=Falsetype=b1m6s0Start time=10.93638
+type=t0b2m6s0Start time=11.33151on_beat=Truet3=(0.3915, 7)chord=None
+type=t1b2m6s0Start time=11.52527on_beat=Truet3=(0.682, 7)chord=NoneMajor
+type=b2m6s0Start time=11.33151
+type=t0b3m6s0Start time=11.71903on_beat=Truet3=(0.682, 7)chord=NoneMajor
+type=t1b3m6s0Start time=11.90914on_beat=Truet3=(0.341, 7)chord=NoneMajor
+type=b3m6s0Start time=11.71903
+type=m6s0Start time=10.54631
+type=t0b0m7s0Start time=12.09924on_beat=Falsetype=t1b0m7s0Start time=12.28705on_beat=Falsetype=b0m7s0Start time=12.09924
+type=t0b1m7s0Start time=12.47486on_beat=Falsetype=t1b1m7s0Start time=12.65743on_beat=Falsetype=b1m7s0Start time=12.47486
+type=t0b2m7s0Start time=12.83999on_beat=Falsetype=t1b2m7s0Start time=13.02288on_beat=Falsetype=b2m7s0Start time=12.83999
+type=t0b3m7s0Start time=13.20577on_beat=Falsetype=t1b3m7s0Start time=13.38711on_beat=Falsetype=b3m7s0Start time=13.20577
+type=m7s0Start time=12.09924
+type=t0b0m8s0Start time=13.56846on_beat=Falsetype=t1b0m8s0Start time=13.74516on_beat=Falsetype=b0m8s0Start time=13.56846
+type=t0b1m8s0Start time=13.92187on_beat=Falsetype=t1b1m8s0Start time=14.09915on_beat=Falsetype=b1m8s0Start time=13.92187
+type=t0b2m8s0Start time=14.27642on_beat=Falsetype=t1b2m8s0Start time=14.45879on_beat=Falsetype=b2m8s0Start time=14.27642
+type=t0b3m8s0Start time=14.64116on_beat=Falsetype=t1b3m8s0Start time=14.82425on_beat=Falsetype=b3m8s0Start time=14.64116
+type=m8s0Start time=13.56846
+type=t0b0m9s0Start time=15.00734on_beat=Falsetype=t1b0m9s0Start time=15.19079on_beat=Falsetype=b0m9s0Start time=15.00734
+type=t0b1m9s0Start time=15.37425on_beat=Falsetype=t1b1m9s0Start time=15.56035on_beat=Falsetype=b1m9s0Start time=15.37425
+type=t0b2m9s0Start time=15.74645on_beat=Falsetype=t1b2m9s0Start time=15.92927on_beat=Falsetype=b2m9s0Start time=15.74645
+type=t0b3m9s0Start time=16.11209on_beat=Falsetype=t1b3m9s0Start time=16.29681on_beat=Falsetype=b3m9s0Start time=16.11209
+type=m9s0Start time=15.00734
+type=t0b0m10s0Start time=16.48153on_beat=Falsetype=t1b0m10s0Start time=16.66629on_beat=Falsetype=b0m10s0Start time=16.48153
+type=t0b1m10s0Start time=16.85105on_beat=Falsetype=t1b1m10s0Start time=17.03049on_beat=Falsetype=b1m10s0Start time=16.85105
+type=t0b2m10s0Start time=17.20994on_beat=Falsetype=t1b2m10s0Start time=17.39123on_beat=Truet3=(0.649, 3)chord=None7
+type=b2m10s0Start time=17.20994
+type=t0b3m10s0Start time=17.57253on_beat=Truet3=(0.3245, 3)chord=None7
+type=t1b3m10s0Start time=17.75775on_beat=Falsetype=b3m10s0Start time=17.57253
+type=m10s0Start time=16.48153
+type=t0b0m11s0Start time=17.94298on_beat=Falsetype=t1b0m11s0Start time=18.12866on_beat=Falsetype=b0m11s0Start time=17.94298
+type=t0b1m11s0Start time=18.31435on_beat=Falsetype=t1b1m11s0Start time=18.50369on_beat=Falsetype=b1m11s0Start time=18.31435
+type=t0b2m11s0Start time=18.69302on_beat=Falsetype=t1b2m11s0Start time=18.88358on_beat=Falsetype=b2m11s0Start time=18.69302
+type=t0b3m11s0Start time=19.07413on_beat=Truet3=(0.174, 0)chord=None
+type=t1b3m11s0Start time=19.26834on_beat=Falsetype=b3m11s0Start time=19.07413
+type=m11s0Start time=17.94298
+type=t0b0m12s0Start time=19.46255on_beat=Truet3=(0.716, 2)chord=None
+type=t1b0m12s0Start time=19.6585on_beat=Truet3=(0.358, 2)chord=None
+type=b0m12s0Start time=19.46255
+type=t0b1m12s0Start time=19.85444on_beat=Falsetype=t1b1m12s0Start time=20.05039on_beat=Falsetype=b1m12s0Start time=19.85444
+type=t0b2m12s0Start time=20.24633on_beat=Falsetype=t1b2m12s0Start time=20.43985on_beat=Falsetype=b2m12s0Start time=20.24633
+type=t0b3m12s0Start time=20.63336on_beat=Falsetype=t1b3m12s0Start time=20.82424on_beat=Falsetype=b3m12s0Start time=20.63336
+type=m12s0Start time=19.46255
+type=t0b0m13s0Start time=21.01513on_beat=Falsetype=t1b0m13s0Start time=21.20269on_beat=Truet3=(0.2685, 7)chord=Nonem7
+type=b0m13s0Start time=21.01513
+type=t0b1m13s0Start time=21.39025on_beat=Truet3=(0.919, 7)chord=None
+type=t1b1m13s0Start time=21.57449on_beat=Truet3=(0.919, 7)chord=None
+type=b1m13s0Start time=21.39025
+type=t0b2m13s0Start time=21.75872on_beat=Truet3=(0.919, 7)chord=None
+type=t1b2m13s0Start time=21.93927on_beat=Truet3=(0.919, 7)chord=None
+type=b2m13s0Start time=21.75872
+type=t0b3m13s0Start time=22.11981on_beat=Falsetype=t1b3m13s0Start time=22.30223on_beat=Falsetype=b3m13s0Start time=22.11981
+type=m13s0Start time=21.01513
+type=t0b0m14s0Start time=22.48464on_beat=Truet3=(0.428, 2)chord=NoneMinor
+type=t1b0m14s0Start time=22.66941on_beat=Falsetype=b0m14s0Start time=22.48464
+type=t0b1m14s0Start time=22.85418on_beat=Falsetype=t1b1m14s0Start time=23.04288on_beat=Falsetype=b1m14s0Start time=22.85418
+type=m14s0Start time=22.48464
+type=t0b0m15s0Start time=23.23159on_beat=Falsetype=t1b0m15s0Start time=23.42562on_beat=Falsetype=b0m15s0Start time=23.23159
+type=t0b1m15s0Start time=23.61966on_beat=Falsetype=t1b1m15s0Start time=23.81884on_beat=Falsetype=b1m15s0Start time=23.61966
+type=t0b2m15s0Start time=24.01801on_beat=Falsetype=t1b2m15s0Start time=24.22233on_beat=Falsetype=b2m15s0Start time=24.01801
+type=t0b3m15s0Start time=24.42665on_beat=Falsetype=t1b3m15s0Start time=24.63644on_beat=Falsetype=b3m15s0Start time=24.42665
+type=m15s0Start time=23.23159
+type=t0b0m16s0Start time=24.84624on_beat=Truet3=(0.564, 3)chord=None
+type=t1b0m16s0Start time=25.05596on_beat=Truet3=(0.282, 3)chord=None
+type=b0m16s0Start time=24.84624
+type=t0b1m16s0Start time=25.26568on_beat=Truet3=(0.48, 6)chord=None
+type=t1b1m16s0Start time=25.47223on_beat=Truet3=(0.48, 6)chord=None
+type=b1m16s0Start time=25.26568
+type=t0b2m16s0Start time=25.67878on_beat=Falsetype=t1b2m16s0Start time=25.88161on_beat=Falsetype=b2m16s0Start time=25.67878
+type=t0b3m16s0Start time=26.08444on_beat=Truet3=(0.42, 6)chord=None
+type=t1b3m16s0Start time=26.2832on_beat=Truet3=(0.42, 6)chord=None
+type=b3m16s0Start time=26.08444
+type=m16s0Start time=24.84624
+type=t0b0m17s0Start time=26.48197on_beat=Truet3=(0.21, 6)chord=None
+type=t1b0m17s0Start time=26.67735on_beat=Falsetype=b0m17s0Start time=26.48197
+type=t0b1m17s0Start time=26.87274on_beat=Falsetype=t1b1m17s0Start time=27.06509on_beat=Falsetype=b1m17s0Start time=26.87274
+type=t0b2m17s0Start time=27.25745on_beat=Falsetype=t1b2m17s0Start time=27.44715on_beat=Falsetype=b2m17s0Start time=27.25745
+type=t0b3m17s0Start time=27.63685on_beat=Falsetype=t1b3m17s0Start time=27.82525on_beat=Falsetype=b3m17s0Start time=27.63685
+type=m17s0Start time=26.48197
+type=t0b0m18s0Start time=28.01366on_beat=Falsetype=t1b0m18s0Start time=28.20389on_beat=Truet3=(0.179, 8)chord=None
+type=b0m18s0Start time=28.01366
+type=t0b1m18s0Start time=28.39412on_beat=Truet3=(0.0895, 8)chord=None
+type=t1b1m18s0Start time=28.58396on_beat=Falsetype=b1m18s0Start time=28.39412
+type=t0b2m18s0Start time=28.7738on_beat=Falsetype=t1b2m18s0Start time=28.96339on_beat=Falsetype=b2m18s0Start time=28.7738
+type=t0b3m18s0Start time=29.15299on_beat=Truet3=(0.1105, 2)chord=None
+type=t1b3m18s0Start time=29.3403on_beat=Truet3=(0.527, 7)chord=NoneMinor
+type=b3m18s0Start time=29.15299
+type=m18s0Start time=28.01366
+type=t0b0m19s0Start time=29.5276on_beat=Truet3=(0.527, 7)chord=NoneMinor
+type=t1b0m19s0Start time=29.71297on_beat=Truet3=(0.2635, 7)chord=NoneMinor
+type=b0m19s0Start time=29.5276
+type=t0b1m19s0Start time=29.89833on_beat=Truet3=(0.504, 6)chord=NoneM7
+type=t1b1m19s0Start time=30.08329on_beat=Truet3=(0.504, 6)chord=NoneM7
+type=b1m19s0Start time=29.89833
+type=t0b2m19s0Start time=30.26824on_beat=Truet3=(0.504, 6)chord=NoneM7
+type=t1b2m19s0Start time=30.45264on_beat=Falsetype=b2m19s0Start time=30.26824
+type=t0b3m19s0Start time=30.63704on_beat=Falsetype=t1b3m19s0Start time=30.82172on_beat=Truet3=(0.279, 6)chord=None
+type=b3m19s0Start time=30.63704
+type=m19s0Start time=29.5276
+type=s1Start time=31.38395
+type=t0b0m0s1Start time=32.1564on_beat=Falsetype=t1b0m0s1Start time=32.35366on_beat=Falsetype=b0m0s1Start time=32.1564
+type=t0b1m0s1Start time=32.55093on_beat=Truet3=(0.245, 8)chord=None
+type=t1b1m0s1Start time=32.75005on_beat=Falsetype=b1m0s1Start time=32.55093
+type=t0b2m0s1Start time=32.94916on_beat=Truet3=(0.3255, 7)chord=Nonem7
+type=t1b2m0s1Start time=33.15082on_beat=Falsetype=b2m0s1Start time=32.94916
+type=t0b3m0s1Start time=33.35247on_beat=Truet3=(0.795, 2)chord=None
+type=t1b3m0s1Start time=33.55082on_beat=Truet3=(0.3975, 2)chord=None
+type=b3m0s1Start time=33.35247
+type=m0s1Start time=32.1564
+type=t0b0m1s1Start time=33.74918on_beat=Falsetype=t1b0m1s1Start time=33.94507on_beat=Falsetype=b0m1s1Start time=33.74918
+type=t0b1m1s1Start time=34.14097on_beat=Truet3=(0.243, 1)chord=None
+type=t1b1m1s1Start time=34.33528on_beat=Falsetype=b1m1s1Start time=34.14097
+type=t0b2m1s1Start time=34.52958on_beat=Falsetype=t1b2m1s1Start time=34.72419on_beat=Falsetype=b2m1s1Start time=34.52958
+type=t0b3m1s1Start time=34.9188on_beat=Falsetype=t1b3m1s1Start time=35.11199on_beat=Falsetype=b3m1s1Start time=34.9188
+type=m1s1Start time=33.74918
+type=t0b0m2s1Start time=35.30518on_beat=Falsetype=t1b0m2s1Start time=35.498on_beat=Falsetype=b0m2s1Start time=35.30518
+type=t0b1m2s1Start time=35.69082on_beat=Falsetype=t1b1m2s1Start time=35.88154on_beat=Falsetype=b1m2s1Start time=35.69082
+type=t0b2m2s1Start time=36.07225on_beat=Falsetype=t1b2m2s1Start time=36.26379on_beat=Truet3=(0.46, 8)chord=None
+type=b2m2s1Start time=36.07225
+type=t0b3m2s1Start time=36.45533on_beat=Falsetype=t1b3m2s1Start time=36.6482on_beat=Truet3=(0.2355, 2)chord=None
+type=b3m2s1Start time=36.45533
+type=m2s1Start time=35.30518
+type=t0b0m3s1Start time=36.84107on_beat=Falsetype=t1b0m3s1Start time=37.03374on_beat=Falsetype=b0m3s1Start time=36.84107
+type=t0b1m3s1Start time=37.2264on_beat=Truet3=(0.368, 10)chord=None
+type=t1b1m3s1Start time=37.41887on_beat=Truet3=(0.847, 11)chord=None
+type=b1m3s1Start time=37.2264
+type=t0b2m3s1Start time=37.61134on_beat=Truet3=(0.4235, 11)chord=None
+type=t1b2m3s1Start time=37.80532on_beat=Truet3=(0.4625, 8)chord=None
+type=b2m3s1Start time=37.61134
+type=t0b3m3s1Start time=37.99931on_beat=Falsetype=t1b3m3s1Start time=38.19206on_beat=Falsetype=b3m3s1Start time=37.99931
+type=m3s1Start time=36.84107
+type=t0b0m4s1Start time=38.3848on_beat=Falsetype=t1b0m4s1Start time=38.57856on_beat=Truet3=(0.469, 9)chord=None
+type=b0m4s1Start time=38.3848
+type=t0b1m4s1Start time=38.77232on_beat=Falsetype=t1b1m4s1Start time=38.96708on_beat=Falsetype=b1m4s1Start time=38.77232
+type=t0b2m4s1Start time=39.16184on_beat=Falsetype=t1b2m4s1Start time=39.35452on_beat=Truet3=(0.319, 1)chord=None
+type=b2m4s1Start time=39.16184
+type=t0b3m4s1Start time=39.5472on_beat=Falsetype=t1b3m4s1Start time=39.74089on_beat=Falsetype=b3m4s1Start time=39.5472
+type=m4s1Start time=38.3848
+type=t0b0m5s1Start time=39.93458on_beat=Falsetype=t1b0m5s1Start time=40.12653on_beat=Falsetype=b0m5s1Start time=39.93458
+type=t0b1m5s1Start time=40.31848on_beat=Falsetype=t1b1m5s1Start time=40.51076on_beat=Falsetype=b1m5s1Start time=40.31848
+type=t0b2m5s1Start time=40.70304on_beat=Falsetype=t1b2m5s1Start time=40.89479on_beat=Falsetype=b2m5s1Start time=40.70304
+type=t0b3m5s1Start time=41.08653on_beat=Truet3=(0.475, 6)chord=None
+type=t1b3m5s1Start time=41.2786on_beat=Falsetype=b3m5s1Start time=41.08653
+type=m5s1Start time=39.93458
+type=t0b0m6s1Start time=41.47067on_beat=Falsetype=t1b0m6s1Start time=41.66272on_beat=Falsetype=b0m6s1Start time=41.47067
+type=t0b1m6s1Start time=41.85477on_beat=Truet3=(0.3805, 1)chord=None
+type=t1b1m6s1Start time=42.04731on_beat=Truet3=(0.998, 0)chord=None
+type=b1m6s1Start time=41.85477
+type=t0b2m6s1Start time=42.23986on_beat=Falsetype=t1b2m6s1Start time=42.43153on_beat=Falsetype=b2m6s1Start time=42.23986
+type=t0b3m6s1Start time=42.6232on_beat=Falsetype=t1b3m6s1Start time=42.81673on_beat=Falsetype=b3m6s1Start time=42.6232
+type=m6s1Start time=41.47067
+type=t0b0m7s1Start time=43.01027on_beat=Falsetype=t1b0m7s1Start time=43.20395on_beat=Falsetype=b0m7s1Start time=43.01027
+type=t0b1m7s1Start time=43.39763on_beat=Truet3=(0.644, 0)chord=None
+type=t1b1m7s1Start time=43.59061on_beat=Falsetype=b1m7s1Start time=43.39763
+type=t0b2m7s1Start time=43.78359on_beat=Falsetype=t1b2m7s1Start time=43.97483on_beat=Falsetype=b2m7s1Start time=43.78359
+type=t0b3m7s1Start time=44.16607on_beat=Falsetype=t1b3m7s1Start time=44.35747on_beat=Falsetype=b3m7s1Start time=44.16607
+type=m7s1Start time=43.01027
+type=t0b0m8s1Start time=44.54886on_beat=Falsetype=t1b0m8s1Start time=44.74005on_beat=Falsetype=b0m8s1Start time=44.54886
+type=t0b1m8s1Start time=44.93125on_beat=Falsetype=t1b1m8s1Start time=45.12276on_beat=Truet3=(0.482, 6)chord=None
+type=b1m8s1Start time=44.93125
+type=t0b2m8s1Start time=45.31427on_beat=Falsetype=t1b2m8s1Start time=45.50508on_beat=Truet3=(0.4465, 8)chord=NoneM7
+type=b2m8s1Start time=45.31427
+type=t0b3m8s1Start time=45.69589on_beat=Truet3=(0.3245, 10)chord=None
+type=t1b3m8s1Start time=45.88633on_beat=Falsetype=b3m8s1Start time=45.69589
+type=m8s1Start time=44.54886
+type=t0b0m9s1Start time=46.07677on_beat=Falsetype=t1b0m9s1Start time=46.26787on_beat=Falsetype=b0m9s1Start time=46.07677
+type=t0b1m9s1Start time=46.45897on_beat=Truet3=(0.82, 9)chord=None
+type=t1b1m9s1Start time=46.65057on_beat=Falsetype=b1m9s1Start time=46.45897
+type=t0b2m9s1Start time=46.84216on_beat=Falsetype=t1b2m9s1Start time=47.03373on_beat=Truet3=(0.2665, 3)chord=None
+type=b2m9s1Start time=46.84216
+type=t0b3m9s1Start time=47.22531on_beat=Truet3=(0.91, 9)chord=NoneM7
+type=t1b3m9s1Start time=47.41704on_beat=Truet3=(0.455, 9)chord=NoneM7
+type=b3m9s1Start time=47.22531
+type=m9s1Start time=46.07677
+type=t0b0m10s1Start time=47.60877on_beat=Falsetype=t1b0m10s1Start time=47.79962on_beat=Falsetype=b0m10s1Start time=47.60877
+type=t0b1m10s1Start time=47.99047on_beat=Falsetype=t1b1m10s1Start time=48.18182on_beat=Falsetype=b1m10s1Start time=47.99047
+type=t0b2m10s1Start time=48.37316on_beat=Truet3=(0.836, 1)chord=None7
+type=t1b2m10s1Start time=48.56449on_beat=Truet3=(0.418, 1)chord=None7
+type=b2m10s1Start time=48.37316
+type=t0b3m10s1Start time=48.75582on_beat=Truet3=(0.556, 10)chord=NoneMinor
+type=t1b3m10s1Start time=48.94832on_beat=Truet3=(0.556, 10)chord=NoneMinor
+type=b3m10s1Start time=48.75582
+type=m10s1Start time=47.60877
+type=t0b0m11s1Start time=49.14083on_beat=Falsetype=t1b0m11s1Start time=49.33349on_beat=Falsetype=b0m11s1Start time=49.14083
+type=t0b1m11s1Start time=49.52615on_beat=Falsetype=t1b1m11s1Start time=49.71776on_beat=Falsetype=b1m11s1Start time=49.52615
+type=t0b2m11s1Start time=49.90937on_beat=Truet3=(0.4565, 1)chord=None
+type=t1b2m11s1Start time=50.10181on_beat=Falsetype=b2m11s1Start time=49.90937
+type=t0b3m11s1Start time=50.29425on_beat=Falsetype=t1b3m11s1Start time=50.48753on_beat=Falsetype=b3m11s1Start time=50.29425
+type=m11s1Start time=49.14083
+type=t0b0m12s1Start time=50.68081on_beat=Falsetype=t1b0m12s1Start time=50.87423on_beat=Falsetype=b0m12s1Start time=50.68081
+type=t0b1m12s1Start time=51.06766on_beat=Falsetype=t1b1m12s1Start time=51.26122on_beat=Falsetype=b1m12s1Start time=51.06766
+type=t0b2m12s1Start time=51.45479on_beat=Truet3=(0.4135, 6)chord=None
+type=t1b2m12s1Start time=51.64748on_beat=Falsetype=b2m12s1Start time=51.45479
+type=t0b3m12s1Start time=51.84016on_beat=Falsetype=t1b3m12s1Start time=52.03264on_beat=Falsetype=b3m12s1Start time=51.84016
+type=m12s1Start time=50.68081
+type=t0b0m13s1Start time=52.22512on_beat=Falsetype=t1b0m13s1Start time=52.41879on_beat=Truet3=(0.4315, 1)chord=None
+type=b0m13s1Start time=52.22512
+type=t0b1m13s1Start time=52.61245on_beat=Falsetype=t1b1m13s1Start time=52.80437on_beat=Falsetype=b1m13s1Start time=52.61245
+type=t0b2m13s1Start time=52.99629on_beat=Falsetype=t1b2m13s1Start time=53.18835on_beat=Falsetype=b2m13s1Start time=52.99629
+type=t0b3m13s1Start time=53.3804on_beat=Falsetype=t1b3m13s1Start time=53.57159on_beat=Falsetype=b3m13s1Start time=53.3804
+type=m13s1Start time=52.22512
+type=t0b0m14s1Start time=53.76277on_beat=Falsetype=t1b0m14s1Start time=53.95357on_beat=Falsetype=b0m14s1Start time=53.76277
+type=t0b1m14s1Start time=54.14437on_beat=Falsetype=t1b1m14s1Start time=54.33514on_beat=Falsetype=b1m14s1Start time=54.14437
+type=t0b2m14s1Start time=54.52591on_beat=Truet3=(0.869, 11)chord=None
+type=t1b2m14s1Start time=54.71765on_beat=Falsetype=b2m14s1Start time=54.52591
+type=t0b3m14s1Start time=54.9094on_beat=Falsetype=t1b3m14s1Start time=55.10059on_beat=Falsetype=b3m14s1Start time=54.9094
+type=m14s1Start time=53.76277
+type=t0b0m15s1Start time=55.29177on_beat=Falsetype=t1b0m15s1Start time=55.48395on_beat=Truet3=(0.4785, 8)chord=None
+type=b0m15s1Start time=55.29177
+type=t0b1m15s1Start time=55.67613on_beat=Truet3=(0.3495, 4)chord=None
+type=t1b1m15s1Start time=55.86809on_beat=Falsetype=b1m15s1Start time=55.67613
+type=t0b2m15s1Start time=56.06005on_beat=Falsetype=t1b2m15s1Start time=56.25213on_beat=Falsetype=b2m15s1Start time=56.06005
+type=t0b3m15s1Start time=56.44421on_beat=Truet3=(0.996, 7)chord=NoneM7
+type=t1b3m15s1Start time=56.63505on_beat=Falsetype=b3m15s1Start time=56.44421
+type=m15s1Start time=55.29177
+type=t0b0m16s1Start time=56.82589on_beat=Falsetype=t1b0m16s1Start time=57.01703on_beat=Falsetype=b0m16s1Start time=56.82589
+type=t0b1m16s1Start time=57.20816on_beat=Truet3=(0.3105, 3)chord=None
+type=t1b1m16s1Start time=57.39978on_beat=Truet3=(0.208, 7)chord=None
+type=b1m16s1Start time=57.20816
+type=t0b2m16s1Start time=57.5914on_beat=Truet3=(0.4755, 9)chord=None
+type=t1b2m16s1Start time=57.7823on_beat=Truet3=(0.411, 1)chord=None
+type=b2m16s1Start time=57.5914
+type=t0b3m16s1Start time=57.97319on_beat=Truet3=(0.3865, 3)chord=None
+type=t1b3m16s1Start time=58.16439on_beat=Falsetype=b3m16s1Start time=57.97319
+type=m16s1Start time=56.82589
+type=t0b0m17s1Start time=58.35559on_beat=Truet3=(0.4115, 8)chord=None
+type=t1b0m17s1Start time=58.54676on_beat=Falsetype=b0m17s1Start time=58.35559
+type=t0b1m17s1Start time=58.73793on_beat=Truet3=(0.47, 2)chord=NoneM7
+type=t1b1m17s1Start time=58.93009on_beat=Truet3=(0.724, 9)chord=None
+type=b1m17s1Start time=58.73793
+type=t0b2m17s1Start time=59.12225on_beat=Falsetype=t1b2m17s1Start time=59.3149on_beat=Falsetype=b2m17s1Start time=59.12225
+type=t0b3m17s1Start time=59.50754on_beat=Falsetype=t1b3m17s1Start time=59.70016on_beat=Truet3=(0.404, 6)chord=None
+type=b3m17s1Start time=59.50754
+type=m17s1Start time=58.35559
+type=t0b0m18s1Start time=59.89278on_beat=Falsetype=t1b0m18s1Start time=60.08333on_beat=Falsetype=b0m18s1Start time=59.89278
+type=t0b1m18s1Start time=60.27387on_beat=Falsetype=t1b1m18s1Start time=60.46525on_beat=Falsetype=b1m18s1Start time=60.27387
+type=t0b2m18s1Start time=60.65663on_beat=Falsetype=t1b2m18s1Start time=60.84798on_beat=Falsetype=b2m18s1Start time=60.65663
+type=t0b3m18s1Start time=61.03934on_beat=Truet3=(0.214, 3)chord=None
+type=t1b3m18s1Start time=61.23152on_beat=Falsetype=b3m18s1Start time=61.03934
+type=m18s1Start time=59.89278
+type=t0b0m19s1Start time=61.42371on_beat=Falsetype=t1b0m19s1Start time=61.61502on_beat=Falsetype=b0m19s1Start time=61.42371
+type=t0b1m19s1Start time=61.80633on_beat=Falsetype=t1b1m19s1Start time=61.99694on_beat=Falsetype=b1m19s1Start time=61.80633
+type=t0b2m19s1Start time=62.18755on_beat=Falsetype=t1b2m19s1Start time=62.3773on_beat=Falsetype=b2m19s1Start time=62.18755
+type=t0b3m19s1Start time=62.56705on_beat=Falsetype=t1b3m19s1Start time=62.75746on_beat=Falsetype=b3m19s1Start time=62.56705
+type=m19s1Start time=61.42371
+type=t0b0m20s1Start time=62.94787on_beat=Falsetype=t1b0m20s1Start time=63.13776on_beat=Falsetype=b0m20s1Start time=62.94787
+type=t0b1m20s1Start time=63.32764on_beat=Falsetype=t1b1m20s1Start time=63.51718on_beat=Falsetype=b1m20s1Start time=63.32764
+type=t0b2m20s1Start time=63.70671on_beat=Falsetype=t1b2m20s1Start time=63.89589on_beat=Falsetype=b2m20s1Start time=63.70671
+type=t0b3m20s1Start time=64.08507on_beat=Truet3=(0.493, 11)chord=None
+type=t1b3m20s1Start time=64.27356on_beat=Falsetype=b3m20s1Start time=64.08507
+type=m20s1Start time=62.94787
+type=t0b0m21s1Start time=64.46206on_beat=Falsetype=t1b0m21s1Start time=64.65174on_beat=Truet3=(0.4815, 9)chord=NoneM7
+type=b0m21s1Start time=64.46206
+type=t0b1m21s1Start time=64.84142on_beat=Falsetype=t1b1m21s1Start time=65.03195on_beat=Falsetype=b1m21s1Start time=64.84142
+type=t0b2m21s1Start time=65.22247on_beat=Truet3=(0.484, 6)chord=None
+type=t1b2m21s1Start time=65.41402on_beat=Falsetype=b2m21s1Start time=65.22247
+type=t0b3m21s1Start time=65.60557on_beat=Falsetype=t1b3m21s1Start time=65.79763on_beat=Falsetype=b3m21s1Start time=65.60557
+type=m21s1Start time=64.46206
+type=s2Start time=66.37244
+type=t0b0m0s2Start time=67.51697on_beat=Falsetype=t1b0m0s2Start time=67.70733on_beat=Falsetype=b0m0s2Start time=67.51697
+type=t0b1m0s2Start time=67.89769on_beat=Truet3=(0.829, 3)chord=None
+type=t1b1m0s2Start time=68.08737on_beat=Truet3=(0.4145, 3)chord=None
+type=b1m0s2Start time=67.89769
+type=t0b2m0s2Start time=68.27705on_beat=Falsetype=t1b2m0s2Start time=68.46638on_beat=Falsetype=b2m0s2Start time=68.27705
+type=t0b3m0s2Start time=68.65572on_beat=Falsetype=t1b3m0s2Start time=68.84557on_beat=Falsetype=b3m0s2Start time=68.65572
+type=m0s2Start time=67.51697
+type=t0b0m1s2Start time=69.03542on_beat=Falsetype=t1b0m1s2Start time=69.22562on_beat=Falsetype=b0m1s2Start time=69.03542
+type=t0b1m1s2Start time=69.41581on_beat=Falsetype=t1b1m1s2Start time=69.60668on_beat=Truet3=(0.181, 2)chord=None
+type=b1m1s2Start time=69.41581
+type=t0b2m1s2Start time=69.79756on_beat=Falsetype=t1b2m1s2Start time=69.98878on_beat=Truet3=(0.4955, 2)chord=None
+type=b2m1s2Start time=69.79756
+type=t0b3m1s2Start time=70.17999on_beat=Falsetype=t1b3m1s2Start time=70.3707on_beat=Falsetype=b3m1s2Start time=70.17999
+type=m1s2Start time=69.03542
+type=t0b0m2s2Start time=70.5614on_beat=Falsetype=t1b0m2s2Start time=70.7516on_beat=Truet3=(0.239, 1)chord=None
+type=b0m2s2Start time=70.5614
+type=t0b1m2s2Start time=70.9418on_beat=Truet3=(0.2805, 1)chord=None
+type=t1b1m2s2Start time=71.13216on_beat=Falsetype=b1m2s2Start time=70.9418
+type=t0b2m2s2Start time=71.32253on_beat=Falsetype=t1b2m2s2Start time=71.51341on_beat=Truet3=(0.4365, 1)chord=None
+type=b2m2s2Start time=71.32253
+type=t0b3m2s2Start time=71.70428on_beat=Truet3=(0.813, 10)chord=None
+type=t1b3m2s2Start time=71.89533on_beat=Truet3=(0.4065, 10)chord=None
+type=b3m2s2Start time=71.70428
+type=m2s2Start time=70.5614
+type=t0b0m3s2Start time=72.08638on_beat=Truet3=(0.578, 0)chord=None7
+type=t1b0m3s2Start time=72.27708on_beat=Falsetype=b0m3s2Start time=72.08638
+type=t0b1m3s2Start time=72.46779on_beat=Falsetype=t1b1m3s2Start time=72.6573on_beat=Falsetype=b1m3s2Start time=72.46779
+type=t0b2m3s2Start time=72.84681on_beat=Falsetype=t1b2m3s2Start time=73.03836on_beat=Falsetype=b2m3s2Start time=72.84681
+type=t0b3m3s2Start time=73.22991on_beat=Falsetype=t1b3m3s2Start time=73.4218on_beat=Falsetype=b3m3s2Start time=73.22991
+type=m3s2Start time=72.08638
+type=t0b0m4s2Start time=73.61369on_beat=Falsetype=t1b0m4s2Start time=73.80609on_beat=Falsetype=b0m4s2Start time=73.61369
+type=t0b1m4s2Start time=73.99849on_beat=Truet3=(0.269, 3)chord=None
+type=t1b1m4s2Start time=74.18986on_beat=Falsetype=b1m4s2Start time=73.99849
+type=t0b2m4s2Start time=74.38124on_beat=Falsetype=t1b2m4s2Start time=74.5721on_beat=Truet3=(0.4375, 8)chord=None
+type=b2m4s2Start time=74.38124
+type=t0b3m4s2Start time=74.76296on_beat=Falsetype=t1b3m4s2Start time=74.95331on_beat=Falsetype=b3m4s2Start time=74.76296
+type=m4s2Start time=73.61369
+type=t0b0m5s2Start time=75.14365on_beat=Falsetype=t1b0m5s2Start time=75.33451on_beat=Falsetype=b0m5s2Start time=75.14365
+type=t0b1m5s2Start time=75.52537on_beat=Falsetype=t1b1m5s2Start time=75.71503on_beat=Falsetype=b1m5s2Start time=75.52537
+type=t0b2m5s2Start time=75.90469on_beat=Falsetype=t1b2m5s2Start time=76.09383on_beat=Falsetype=b2m5s2Start time=75.90469
+type=t0b3m5s2Start time=76.28298on_beat=Falsetype=t1b3m5s2Start time=76.47195on_beat=Truet3=(0.233, 8)chord=None
+type=b3m5s2Start time=76.28298
+type=m5s2Start time=75.14365
+type=t0b0m6s2Start time=76.66092on_beat=Falsetype=t1b0m6s2Start time=76.85006on_beat=Falsetype=b0m6s2Start time=76.66092
+type=t0b1m6s2Start time=77.03919on_beat=Falsetype=t1b1m6s2Start time=77.22781on_beat=Falsetype=b1m6s2Start time=77.03919
+type=t0b2m6s2Start time=77.41642on_beat=Truet3=(0.67, 10)chord=NoneM7
+type=t1b2m6s2Start time=77.60606on_beat=Truet3=(0.335, 10)chord=NoneM7
+type=b2m6s2Start time=77.41642
+type=t0b3m6s2Start time=77.79569on_beat=Falsetype=t1b3m6s2Start time=77.98583on_beat=Falsetype=b3m6s2Start time=77.79569
+type=m6s2Start time=76.66092
+type=t0b0m7s2Start time=78.17597on_beat=Truet3=(0.833, 0)chord=None
+type=t1b0m7s2Start time=78.36644on_beat=Falsetype=b0m7s2Start time=78.17597
+type=t0b1m7s2Start time=78.55692on_beat=Falsetype=t1b1m7s2Start time=78.74807on_beat=Truet3=(0.646, 1)chord=None
+type=b1m7s2Start time=78.55692
+type=t0b2m7s2Start time=78.93922on_beat=Truet3=(0.323, 1)chord=None
+type=t1b2m7s2Start time=79.13087on_beat=Falsetype=b2m7s2Start time=78.93922
+type=t0b3m7s2Start time=79.32253on_beat=Falsetype=t1b3m7s2Start time=79.51282on_beat=Falsetype=b3m7s2Start time=79.32253
+type=m7s2Start time=78.17597
+type=t0b0m8s2Start time=79.70311on_beat=Falsetype=t1b0m8s2Start time=79.8934on_beat=Falsetype=b0m8s2Start time=79.70311
+type=t0b1m8s2Start time=80.08368on_beat=Falsetype=t1b1m8s2Start time=80.27346on_beat=Falsetype=b1m8s2Start time=80.08368
+type=t0b2m8s2Start time=80.46323on_beat=Falsetype=t1b2m8s2Start time=80.65334on_beat=Falsetype=b2m8s2Start time=80.46323
+type=t0b3m8s2Start time=80.84345on_beat=Falsetype=t1b3m8s2Start time=81.03271on_beat=Truet3=(0.414, 6)chord=None
+type=b3m8s2Start time=80.84345
+type=m8s2Start time=79.70311
+type=t0b0m9s2Start time=81.22196on_beat=Truet3=(0.728, 8)chord=None
+type=t1b0m9s2Start time=81.41104on_beat=Falsetype=b0m9s2Start time=81.22196
+type=t0b1m9s2Start time=81.60013on_beat=Falsetype=t1b1m9s2Start time=81.78835on_beat=Truet3=(0.889, 0)chord=NoneM7
+type=b1m9s2Start time=81.60013
+type=t0b2m9s2Start time=81.97658on_beat=Truet3=(0.4445, 0)chord=NoneM7
+type=t1b2m9s2Start time=82.16753on_beat=Falsetype=b2m9s2Start time=81.97658
+type=t0b3m9s2Start time=82.35848on_beat=Falsetype=t1b3m9s2Start time=82.54959on_beat=Falsetype=b3m9s2Start time=82.35848
+type=m9s2Start time=81.22196
+type=t0b0m10s2Start time=82.74071on_beat=Truet3=(0.4085, 8)chord=None
+type=t1b0m10s2Start time=82.93097on_beat=Falsetype=b0m10s2Start time=82.74071
+type=t0b1m10s2Start time=83.12123on_beat=Truet3=(0.2685, 6)chord=None
+type=t1b1m10s2Start time=83.3103on_beat=Falsetype=b1m10s2Start time=83.12123
+type=t0b2m10s2Start time=83.49937on_beat=Falsetype=t1b2m10s2Start time=83.68911on_beat=Falsetype=b2m10s2Start time=83.49937
+type=t0b3m10s2Start time=83.87886on_beat=Falsetype=t1b3m10s2Start time=84.06945on_beat=Falsetype=b3m10s2Start time=83.87886
+type=m10s2Start time=82.74071
+type=s3Start time=84.64158
+type=t0b0m0s3Start time=85.77933on_beat=Falsetype=t1b0m0s3Start time=85.97008on_beat=Falsetype=b0m0s3Start time=85.77933
+type=t0b1m0s3Start time=86.16084on_beat=Falsetype=t1b1m0s3Start time=86.35261on_beat=Falsetype=b1m0s3Start time=86.16084
+type=t0b2m0s3Start time=86.54438on_beat=Falsetype=t1b2m0s3Start time=86.73512on_beat=Falsetype=b2m0s3Start time=86.54438
+type=t0b3m0s3Start time=86.92587on_beat=Falsetype=t1b3m0s3Start time=87.11661on_beat=Falsetype=b3m0s3Start time=86.92587
+type=m0s3Start time=85.77933
+type=t0b0m1s3Start time=87.30734on_beat=Falsetype=t1b0m1s3Start time=87.49876on_beat=Falsetype=b0m1s3Start time=87.30734
+type=t0b1m1s3Start time=87.69017on_beat=Falsetype=t1b1m1s3Start time=87.8814on_beat=Falsetype=b1m1s3Start time=87.69017
+type=t0b2m1s3Start time=88.07264on_beat=Falsetype=t1b2m1s3Start time=88.26454on_beat=Falsetype=b2m1s3Start time=88.07264
+type=t0b3m1s3Start time=88.45644on_beat=Falsetype=t1b3m1s3Start time=88.64935on_beat=Falsetype=b3m1s3Start time=88.45644
+type=m1s3Start time=87.30734
+type=t0b0m2s3Start time=88.84225on_beat=Truet3=(0.664, 11)chord=None
+type=t1b0m2s3Start time=89.03395on_beat=Falsetype=b0m2s3Start time=88.84225
+type=t0b1m2s3Start time=89.22565on_beat=Falsetype=t1b1m2s3Start time=89.41716on_beat=Falsetype=b1m2s3Start time=89.22565
+type=t0b2m2s3Start time=89.60867on_beat=Falsetype=t1b2m2s3Start time=89.80016on_beat=Falsetype=b2m2s3Start time=89.60867
+type=t0b3m2s3Start time=89.99164on_beat=Truet3=(0.4085, 3)chord=None
+type=t1b3m2s3Start time=90.18396on_beat=Falsetype=b3m2s3Start time=89.99164
+type=m2s3Start time=88.84225
+type=t0b0m3s3Start time=90.37627on_beat=Falsetype=t1b0m3s3Start time=90.56907on_beat=Truet3=(0.429, 10)chord=None
+type=b0m3s3Start time=90.37627
+type=t0b1m3s3Start time=90.76188on_beat=Truet3=(0.471, 4)chord=None
+type=t1b1m3s3Start time=90.95363on_beat=Truet3=(0.2355, 4)chord=None
+type=b1m3s3Start time=90.76188
+type=t0b2m3s3Start time=91.14539on_beat=Truet3=(0.4975, 9)chord=None
+type=t1b2m3s3Start time=91.33628on_beat=Falsetype=b2m3s3Start time=91.14539
+type=t0b3m3s3Start time=91.52717on_beat=Falsetype=t1b3m3s3Start time=91.71922on_beat=Falsetype=b3m3s3Start time=91.52717
+type=m3s3Start time=90.37627
+type=t0b0m4s3Start time=91.91128on_beat=Truet3=(0.641, 11)chord=None
+type=t1b0m4s3Start time=92.10382on_beat=Truet3=(0.3205, 11)chord=None
+type=b0m4s3Start time=91.91128
+type=t0b1m4s3Start time=92.29636on_beat=Falsetype=t1b1m4s3Start time=92.48871on_beat=Falsetype=b1m4s3Start time=92.29636
+type=t0b2m4s3Start time=92.68106on_beat=Falsetype=t1b2m4s3Start time=92.87169on_beat=Falsetype=b2m4s3Start time=92.68106
+type=t0b3m4s3Start time=93.06232on_beat=Falsetype=t1b3m4s3Start time=93.25362on_beat=Falsetype=b3m4s3Start time=93.06232
+type=m4s3Start time=91.91128
+type=t0b0m5s3Start time=93.44491on_beat=Falsetype=t1b0m5s3Start time=93.63669on_beat=Falsetype=b0m5s3Start time=93.44491
+type=t0b1m5s3Start time=93.82847on_beat=Truet3=(0.538, 8)chord=None
+type=t1b1m5s3Start time=94.0204on_beat=Truet3=(0.269, 8)chord=None
+type=b1m5s3Start time=93.82847
+type=t0b2m5s3Start time=94.21233on_beat=Falsetype=t1b2m5s3Start time=94.40424on_beat=Falsetype=b2m5s3Start time=94.21233
+type=t0b3m5s3Start time=94.59615on_beat=Falsetype=t1b3m5s3Start time=94.7872on_beat=Falsetype=b3m5s3Start time=94.59615
+type=m5s3Start time=93.44491
+type=t0b0m6s3Start time=94.97824on_beat=Falsetype=t1b0m6s3Start time=95.16909on_beat=Falsetype=b0m6s3Start time=94.97824
+type=t0b1m6s3Start time=95.35994on_beat=Falsetype=t1b1m6s3Start time=95.55145on_beat=Falsetype=b1m6s3Start time=95.35994
+type=t0b2m6s3Start time=95.74296on_beat=Falsetype=t1b2m6s3Start time=95.93496on_beat=Truet3=(0.4955, 9)chord=None
+type=b2m6s3Start time=95.74296
+type=t0b3m6s3Start time=96.12696on_beat=Truet3=(0.2935, 4)chord=None
+type=t1b3m6s3Start time=96.31793on_beat=Falsetype=b3m6s3Start time=96.12696
+type=m6s3Start time=94.97824
+type=t0b0m7s3Start time=96.50889on_beat=Falsetype=t1b0m7s3Start time=96.70103on_beat=Falsetype=b0m7s3Start time=96.50889
+type=t0b1m7s3Start time=96.89316on_beat=Falsetype=t1b1m7s3Start time=97.08375on_beat=Falsetype=b1m7s3Start time=96.89316
+type=t0b2m7s3Start time=97.27434on_beat=Falsetype=t1b2m7s3Start time=97.46542on_beat=Falsetype=b2m7s3Start time=97.27434
+type=t0b3m7s3Start time=97.65651on_beat=Falsetype=t1b3m7s3Start time=97.84775on_beat=Falsetype=b3m7s3Start time=97.65651
+type=m7s3Start time=96.50889
+type=t0b0m8s3Start time=98.03899on_beat=Falsetype=t1b0m8s3Start time=98.23159on_beat=Falsetype=b0m8s3Start time=98.03899
+type=t0b1m8s3Start time=98.42418on_beat=Falsetype=t1b1m8s3Start time=98.61574on_beat=Falsetype=b1m8s3Start time=98.42418
+type=t0b2m8s3Start time=98.80731on_beat=Truet3=(0.338, 4)chord=None
+type=t1b2m8s3Start time=98.99989on_beat=Falsetype=b2m8s3Start time=98.80731
+type=t0b3m8s3Start time=99.19246on_beat=Falsetype=t1b3m8s3Start time=99.38419on_beat=Falsetype=b3m8s3Start time=99.19246
+type=m8s3Start time=98.03899
+type=t0b0m9s3Start time=99.57591on_beat=Truet3=(0.2345, 3)chord=None
+type=t1b0m9s3Start time=99.7678on_beat=Truet3=(0.4385, 8)chord=None
+type=b0m9s3Start time=99.57591
+type=t0b1m9s3Start time=99.9597on_beat=Truet3=(0.302, 1)chord=None
+type=t1b1m9s3Start time=100.15192on_beat=Falsetype=b1m9s3Start time=99.9597
+type=t0b2m9s3Start time=100.34415on_beat=Falsetype=t1b2m9s3Start time=100.53621on_beat=Truet3=(0.3175, 1)chord=None
+type=b2m9s3Start time=100.34415
+type=t0b3m9s3Start time=100.72826on_beat=Truet3=(0.263, 3)chord=None
+type=t1b3m9s3Start time=100.91862on_beat=Falsetype=b3m9s3Start time=100.72826
+type=m9s3Start time=99.57591
+type=t0b0m10s3Start time=101.10898on_beat=Falsetype=t1b0m10s3Start time=101.29899on_beat=Falsetype=b0m10s3Start time=101.10898
+type=t0b1m10s3Start time=101.48901on_beat=Falsetype=t1b1m10s3Start time=101.67919on_beat=Falsetype=b1m10s3Start time=101.48901
+type=t0b2m10s3Start time=101.86938on_beat=Falsetype=t1b2m10s3Start time=102.06126on_beat=Falsetype=b2m10s3Start time=101.86938
+type=t0b3m10s3Start time=102.25314on_beat=Falsetype=t1b3m10s3Start time=102.44401on_beat=Falsetype=b3m10s3Start time=102.25314
+type=m10s3Start time=101.10898
+type=t0b0m11s3Start time=102.63487on_beat=Falsetype=t1b0m11s3Start time=102.82591on_beat=Falsetype=b0m11s3Start time=102.63487
+type=t0b1m11s3Start time=103.01694on_beat=Falsetype=t1b1m11s3Start time=103.20797on_beat=Falsetype=b1m11s3Start time=103.01694
+type=t0b2m11s3Start time=103.39901on_beat=Falsetype=t1b2m11s3Start time=103.5892on_beat=Truet3=(0.957, 3)chord=None
+type=b2m11s3Start time=103.39901
+type=t0b3m11s3Start time=103.77939on_beat=Truet3=(0.4785, 3)chord=None
+type=t1b3m11s3Start time=103.97059on_beat=Falsetype=b3m11s3Start time=103.77939
+type=m11s3Start time=102.63487
+type=t0b0m12s3Start time=104.1618on_beat=Falsetype=t1b0m12s3Start time=104.35131on_beat=Falsetype=b0m12s3Start time=104.1618
+type=t0b1m12s3Start time=104.54083on_beat=Truet3=(0.416, 6)chord=None
+type=t1b1m12s3Start time=104.72932on_beat=Truet3=(0.416, 6)chord=None
+type=b1m12s3Start time=104.54083
+type=t0b2m12s3Start time=104.91782on_beat=Falsetype=t1b2m12s3Start time=105.10785on_beat=Falsetype=b2m12s3Start time=104.91782
+type=t0b3m12s3Start time=105.29788on_beat=Falsetype=t1b3m12s3Start time=105.48791on_beat=Falsetype=b3m12s3Start time=105.29788
+type=m12s3Start time=104.1618
+type=t0b0m13s3Start time=105.67794on_beat=Falsetype=t1b0m13s3Start time=105.86831on_beat=Truet3=(0.4175, 0)chord=None
+type=b0m13s3Start time=105.67794
+type=t0b1m13s3Start time=106.05869on_beat=Falsetype=t1b1m13s3Start time=106.24975on_beat=Falsetype=b1m13s3Start time=106.05869
+type=t0b2m13s3Start time=106.44081on_beat=Falsetype=t1b2m13s3Start time=106.63119on_beat=Falsetype=b2m13s3Start time=106.44081
+type=t0b3m13s3Start time=106.82158on_beat=Truet3=(0.495, 7)chord=None
+type=t1b3m13s3Start time=107.01231on_beat=Falsetype=b3m13s3Start time=106.82158
+type=m13s3Start time=105.67794
+type=t0b0m14s3Start time=107.20304on_beat=Falsetype=t1b0m14s3Start time=107.39428on_beat=Falsetype=b0m14s3Start time=107.20304
+type=t0b1m14s3Start time=107.58553on_beat=Truet3=(0.3595, 0)chord=None
+type=t1b1m14s3Start time=107.77627on_beat=Truet3=(0.496, 7)chord=None
+type=b1m14s3Start time=107.58553
+type=t0b2m14s3Start time=107.96701on_beat=Falsetype=t1b2m14s3Start time=108.15759on_beat=Falsetype=b2m14s3Start time=107.96701
+type=t0b3m14s3Start time=108.34817on_beat=Falsetype=t1b3m14s3Start time=108.53859on_beat=Falsetype=b3m14s3Start time=108.34817
+type=m14s3Start time=107.20304
+type=t0b0m15s3Start time=108.72901on_beat=Falsetype=t1b0m15s3Start time=108.91977on_beat=Truet3=(0.473, 8)chord=None
+type=b0m15s3Start time=108.72901
+type=t0b1m15s3Start time=109.11054on_beat=Truet3=(0.468, 4)chord=None
+type=t1b1m15s3Start time=109.30131on_beat=Falsetype=b1m15s3Start time=109.11054
+type=t0b2m15s3Start time=109.49208on_beat=Falsetype=t1b2m15s3Start time=109.68404on_beat=Truet3=(0.464, 5)chord=NoneM7
+type=b2m15s3Start time=109.49208
+type=t0b3m15s3Start time=109.87601on_beat=Truet3=(0.237, 2)chord=None
+type=t1b3m15s3Start time=110.06645on_beat=Falsetype=b3m15s3Start time=109.87601
+type=m15s3Start time=108.72901
+type=t0b0m16s3Start time=110.2569on_beat=Falsetype=t1b0m16s3Start time=110.44769on_beat=Truet3=(0.498, 9)chord=None
+type=b0m16s3Start time=110.2569
+type=t0b1m16s3Start time=110.63848on_beat=Truet3=(0.285, 3)chord=None
+type=t1b1m16s3Start time=110.82978on_beat=Truet3=(0.4985, 9)chord=None
+type=b1m16s3Start time=110.63848
+type=t0b2m16s3Start time=111.02108on_beat=Falsetype=t1b2m16s3Start time=111.21188on_beat=Truet3=(0.924, 6)chord=None
+type=b2m16s3Start time=111.02108
+type=t0b3m16s3Start time=111.40268on_beat=Falsetype=t1b3m16s3Start time=111.59417on_beat=Falsetype=b3m16s3Start time=111.40268
+type=m16s3Start time=110.2569
+type=t0b0m17s3Start time=111.78565on_beat=Truet3=(0.425, 11)chord=None
+type=t1b0m17s3Start time=111.97714on_beat=Truet3=(0.4995, 1)chord=NoneM7
+type=b0m17s3Start time=111.78565
+type=t0b1m17s3Start time=112.16863on_beat=Truet3=(0.394, 2)chord=NoneM7
+type=t1b1m17s3Start time=112.3603on_beat=Falsetype=b1m17s3Start time=112.16863
+type=t0b2m17s3Start time=112.55196on_beat=Truet3=(0.935, 1)chord=None
+type=t1b2m17s3Start time=112.74396on_beat=Falsetype=b2m17s3Start time=112.55196
+type=t0b3m17s3Start time=112.93597on_beat=Falsetype=t1b3m17s3Start time=113.12798on_beat=Falsetype=b3m17s3Start time=112.93597
+type=m17s3Start time=111.78565
+type=t0b0m18s3Start time=113.31998on_beat=Falsetype=t1b0m18s3Start time=113.51064on_beat=Truet3=(0.491, 9)chord=None
+type=b0m18s3Start time=113.31998
+type=t0b1m18s3Start time=113.70129on_beat=Truet3=(0.2635, 3)chord=None
+type=t1b1m18s3Start time=113.89262on_beat=Truet3=(0.215, 7)chord=None
+type=b1m18s3Start time=113.70129
+type=t0b2m18s3Start time=114.08395on_beat=Falsetype=t1b2m18s3Start time=114.27477on_beat=Falsetype=b2m18s3Start time=114.08395
+type=t0b3m18s3Start time=114.46559on_beat=Truet3=(0.439, 3)chord=None
+type=t1b3m18s3Start time=114.65777on_beat=Falsetype=b3m18s3Start time=114.46559
+type=m18s3Start time=113.31998
+type=t0b0m19s3Start time=114.84994on_beat=Falsetype=t1b0m19s3Start time=115.04195on_beat=Falsetype=b0m19s3Start time=114.84994
+type=t0b1m19s3Start time=115.23396on_beat=Truet3=(0.3185, 5)chord=None
+type=t1b1m19s3Start time=115.42546on_beat=Truet3=(0.2915, 8)chord=None
+type=b1m19s3Start time=115.23396
+type=t0b2m19s3Start time=115.61696on_beat=Truet3=(0.2575, 8)chord=None
+type=t1b2m19s3Start time=115.80795on_beat=Falsetype=b2m19s3Start time=115.61696
+type=t0b3m19s3Start time=115.99894on_beat=Truet3=(0.302, 8)chord=None
+type=t1b3m19s3Start time=116.19078on_beat=Falsetype=b3m19s3Start time=115.99894
+type=m19s3Start time=114.84994
+type=t0b0m20s3Start time=116.38262on_beat=Falsetype=t1b0m20s3Start time=116.57446on_beat=Falsetype=b0m20s3Start time=116.38262
+type=t0b1m20s3Start time=116.7663on_beat=Falsetype=t1b1m20s3Start time=116.95814on_beat=Truet3=(0.4285, 5)chord=NoneM7
+type=b1m20s3Start time=116.7663
+type=t0b2m20s3Start time=117.14998on_beat=Falsetype=t1b2m20s3Start time=117.34131on_beat=Truet3=(0.4645, 8)chord=None
+type=b2m20s3Start time=117.14998
+type=t0b3m20s3Start time=117.53264on_beat=Truet3=(0.449, 0)chord=None
+type=t1b3m20s3Start time=117.72313on_beat=Falsetype=b3m20s3Start time=117.53264
+type=m20s3Start time=116.38262
+type=s4Start time=118.67519
+type=t0b0m0s4Start time=119.43473on_beat=Falsetype=t1b0m0s4Start time=119.62452on_beat=Falsetype=b0m0s4Start time=119.43473
+type=t0b1m0s4Start time=119.81431on_beat=Falsetype=t1b1m0s4Start time=120.0041on_beat=Falsetype=b1m0s4Start time=119.81431
+type=t0b2m0s4Start time=120.19389on_beat=Falsetype=t1b2m0s4Start time=120.38385on_beat=Falsetype=b2m0s4Start time=120.19389
+type=t0b3m0s4Start time=120.57381on_beat=Truet3=(0.3975, 4)chord=None
+type=t1b3m0s4Start time=120.76427on_beat=Truet3=(0.4925, 0)chord=None
+type=b3m0s4Start time=120.57381
+type=m0s4Start time=119.43473
+type=t0b0m1s4Start time=120.95473on_beat=Truet3=(0.397, 3)chord=None
+type=t1b0m1s4Start time=121.14586on_beat=Falsetype=b0m1s4Start time=120.95473
+type=t0b1m1s4Start time=121.337on_beat=Falsetype=t1b1m1s4Start time=121.52864on_beat=Truet3=(0.4545, 11)chord=None
+type=b1m1s4Start time=121.337
+type=t0b2m1s4Start time=121.72028on_beat=Truet3=(0.4575, 1)chord=None
+type=t1b2m1s4Start time=121.91191on_beat=Falsetype=b2m1s4Start time=121.72028
+type=t0b3m1s4Start time=122.10354on_beat=Falsetype=t1b3m1s4Start time=122.29416on_beat=Falsetype=b3m1s4Start time=122.10354
+type=m1s4Start time=120.95473
+type=t0b0m2s4Start time=122.48477on_beat=Falsetype=t1b0m2s4Start time=122.67402on_beat=Falsetype=b0m2s4Start time=122.48477
+type=t0b1m2s4Start time=122.86326on_beat=Falsetype=t1b1m2s4Start time=123.05268on_beat=Falsetype=b1m2s4Start time=122.86326
+type=t0b2m2s4Start time=123.24209on_beat=Falsetype=t1b2m2s4Start time=123.43099on_beat=Falsetype=b2m2s4Start time=123.24209
+type=t0b3m2s4Start time=123.61989on_beat=Truet3=(0.4, 4)chord=None
+type=t1b3m2s4Start time=123.80896on_beat=Truet3=(0.4675, 0)chord=None
+type=b3m2s4Start time=123.61989
+type=m2s4Start time=122.48477
+type=t0b0m3s4Start time=123.99802on_beat=Truet3=(0.4905, 7)chord=None
+type=t1b0m3s4Start time=124.1864on_beat=Falsetype=b0m3s4Start time=123.99802
+type=t0b1m3s4Start time=124.37478on_beat=Falsetype=t1b1m3s4Start time=124.56282on_beat=Falsetype=b1m3s4Start time=124.37478
+type=t0b2m3s4Start time=124.75086on_beat=Truet3=(0.485, 1)chord=NoneM7
+type=t1b2m3s4Start time=124.93923on_beat=Falsetype=b2m3s4Start time=124.75086
+type=t0b3m3s4Start time=125.1276on_beat=Truet3=(0.273, 4)chord=None
+type=t1b3m3s4Start time=125.31682on_beat=Falsetype=b3m3s4Start time=125.1276
+type=m3s4Start time=123.99802
+type=t0b0m4s4Start time=125.50604on_beat=Falsetype=t1b0m4s4Start time=125.69491on_beat=Falsetype=b0m4s4Start time=125.50604
+type=t0b1m4s4Start time=125.88378on_beat=Falsetype=t1b1m4s4Start time=126.07299on_beat=Falsetype=b1m4s4Start time=125.88378
+type=t0b2m4s4Start time=126.2622on_beat=Falsetype=t1b2m4s4Start time=126.45158on_beat=Falsetype=b2m4s4Start time=126.2622
+type=t0b3m4s4Start time=126.64095on_beat=Falsetype=t1b3m4s4Start time=126.83117on_beat=Truet3=(0.4945, 0)chord=None
+type=b3m4s4Start time=126.64095
+type=m4s4Start time=125.50604
+type=t0b0m5s4Start time=127.02139on_beat=Truet3=(0.4585, 0)chord=None
+type=t1b0m5s4Start time=127.21212on_beat=Truet3=(0.4915, 8)chord=None
+type=b0m5s4Start time=127.02139
+type=t0b1m5s4Start time=127.40285on_beat=Falsetype=t1b1m5s4Start time=127.59391on_beat=Falsetype=b1m5s4Start time=127.40285
+type=t0b2m5s4Start time=127.78498on_beat=Falsetype=t1b2m5s4Start time=127.97553on_beat=Falsetype=b2m5s4Start time=127.78498
+type=t0b3m5s4Start time=128.16608on_beat=Falsetype=t1b3m5s4Start time=128.35662on_beat=Falsetype=b3m5s4Start time=128.16608
+type=m5s4Start time=127.02139
+type=t0b0m6s4Start time=128.54717on_beat=Truet3=(0.942, 0)chord=None
+type=t1b0m6s4Start time=128.73738on_beat=Truet3=(0.471, 0)chord=None
+type=b0m6s4Start time=128.54717
+type=t0b1m6s4Start time=128.92758on_beat=Falsetype=t1b1m6s4Start time=129.11711on_beat=Falsetype=b1m6s4Start time=128.92758
+type=t0b2m6s4Start time=129.30663on_beat=Falsetype=t1b2m6s4Start time=129.49619on_beat=Falsetype=b2m6s4Start time=129.30663
+type=t0b3m6s4Start time=129.68575on_beat=Falsetype=t1b3m6s4Start time=129.87453on_beat=Falsetype=b3m6s4Start time=129.68575
+type=m6s4Start time=128.54717
+type=t0b0m7s4Start time=130.06332on_beat=Falsetype=t1b0m7s4Start time=130.252on_beat=Falsetype=b0m7s4Start time=130.06332
+type=t0b1m7s4Start time=130.44069on_beat=Falsetype=t1b1m7s4Start time=130.62758on_beat=Falsetype=b1m7s4Start time=130.44069
+type=t0b2m7s4Start time=130.81447on_beat=Truet3=(0.4875, 6)chord=None
+type=t1b2m7s4Start time=131.00075on_beat=Falsetype=b2m7s4Start time=130.81447
+type=t0b3m7s4Start time=131.18704on_beat=Falsetype=t1b3m7s4Start time=131.37322on_beat=Falsetype=b3m7s4Start time=131.18704
+type=m7s4Start time=130.06332
+type=s5Start time=131.93736
+type=t0b0m0s5Start time=133.06157on_beat=Falsetype=t1b0m0s5Start time=133.25109on_beat=Falsetype=b0m0s5Start time=133.06157
+type=t0b1m0s5Start time=133.44061on_beat=Falsetype=t1b1m0s5Start time=133.63012on_beat=Falsetype=b1m0s5Start time=133.44061
+type=t0b2m0s5Start time=133.81964on_beat=Falsetype=t1b2m0s5Start time=134.01051on_beat=Falsetype=b2m0s5Start time=133.81964
+type=t0b3m0s5Start time=134.20138on_beat=Falsetype=t1b3m0s5Start time=134.38953on_beat=Falsetype=b3m0s5Start time=134.20138
+type=m0s5Start time=133.06157
+type=t0b0m1s5Start time=134.57768on_beat=Falsetype=t1b0m1s5Start time=134.76855on_beat=Falsetype=b0m1s5Start time=134.57768
+type=t0b1m1s5Start time=134.95942on_beat=Falsetype=t1b1m1s5Start time=135.14892on_beat=Falsetype=b1m1s5Start time=134.95942
+type=t0b2m1s5Start time=135.33843on_beat=Truet3=(0.246, 10)chord=None
+type=t1b2m1s5Start time=135.5315on_beat=Falsetype=b2m1s5Start time=135.33843
+type=t0b3m1s5Start time=135.72457on_beat=Falsetype=t1b3m1s5Start time=135.91679on_beat=Falsetype=b3m1s5Start time=135.72457
+type=m1s5Start time=134.57768
+type=t0b0m2s5Start time=136.10901on_beat=Falsetype=t1b0m2s5Start time=136.30207on_beat=Truet3=(0.2925, 2)chord=None
+type=b0m2s5Start time=136.10901
+type=t0b1m2s5Start time=136.49514on_beat=Truet3=(0.506, 3)chord=None
+type=t1b1m2s5Start time=136.68684on_beat=Truet3=(0.506, 3)chord=None
+type=b1m2s5Start time=136.49514
+type=t0b2m2s5Start time=136.87855on_beat=Falsetype=t1b2m2s5Start time=137.06957on_beat=Falsetype=b2m2s5Start time=136.87855
+type=t0b3m2s5Start time=137.26059on_beat=Falsetype=t1b3m2s5Start time=137.45161on_beat=Falsetype=b3m2s5Start time=137.26059
+type=m2s5Start time=136.10901
+type=t0b0m3s5Start time=137.64263on_beat=Falsetype=t1b0m3s5Start time=137.83432on_beat=Truet3=(0.4635, 7)chord=None
+type=b0m3s5Start time=137.64263
+type=t0b1m3s5Start time=138.02602on_beat=Falsetype=t1b1m3s5Start time=138.21516on_beat=Truet3=(0.955, 7)chord=None
+type=b1m3s5Start time=138.02602
+type=t0b2m3s5Start time=138.40431on_beat=Truet3=(0.4775, 7)chord=None
+type=t1b2m3s5Start time=138.59548on_beat=Falsetype=b2m3s5Start time=138.40431
+type=t0b3m3s5Start time=138.78665on_beat=Falsetype=t1b3m3s5Start time=138.97714on_beat=Falsetype=b3m3s5Start time=138.78665
+type=m3s5Start time=137.64263
+type=t0b0m4s5Start time=139.16763on_beat=Falsetype=t1b0m4s5Start time=139.35606on_beat=Falsetype=b0m4s5Start time=139.16763
+type=t0b1m4s5Start time=139.5445on_beat=Falsetype=t1b1m4s5Start time=139.73531on_beat=Falsetype=b1m4s5Start time=139.5445
+type=t0b2m4s5Start time=139.92611on_beat=Falsetype=t1b2m4s5Start time=140.1186on_beat=Falsetype=b2m4s5Start time=139.92611
+type=t0b3m4s5Start time=140.31109on_beat=Falsetype=t1b3m4s5Start time=140.50187on_beat=Falsetype=b3m4s5Start time=140.31109
+type=m4s5Start time=139.16763
+type=t0b0m5s5Start time=140.69265on_beat=Falsetype=t1b0m5s5Start time=140.88325on_beat=Falsetype=b0m5s5Start time=140.69265
+type=t0b1m5s5Start time=141.07384on_beat=Falsetype=t1b1m5s5Start time=141.26409on_beat=Falsetype=b1m5s5Start time=141.07384
+type=t0b2m5s5Start time=141.45433on_beat=Truet3=(0.4745, 5)chord=NoneM7
+type=t1b2m5s5Start time=141.64643on_beat=Truet3=(0.448, 0)chord=NoneM7
+type=b2m5s5Start time=141.45433
+type=t0b3m5s5Start time=141.83853on_beat=Falsetype=t1b3m5s5Start time=142.03333on_beat=Truet3=(0.37, 7)chord=None
+type=b3m5s5Start time=141.83853
+type=m5s5Start time=140.69265
+type=t0b0m6s5Start time=142.22814on_beat=Falsetype=t1b0m6s5Start time=142.42157on_beat=Falsetype=b0m6s5Start time=142.22814
+type=t0b1m6s5Start time=142.615on_beat=Truet3=(0.391, 10)chord=None
+type=t1b1m6s5Start time=142.80656on_beat=Truet3=(0.594, 10)chord=None
+type=b1m6s5Start time=142.615
+type=t0b2m6s5Start time=142.99811on_beat=Truet3=(0.297, 10)chord=None
+type=t1b2m6s5Start time=143.18932on_beat=Truet3=(0.4985, 8)chord=None
+type=b2m6s5Start time=142.99811
+type=t0b3m6s5Start time=143.38053on_beat=Falsetype=t1b3m6s5Start time=143.57173on_beat=Falsetype=b3m6s5Start time=143.38053
+type=m6s5Start time=142.22814
+type=t0b0m7s5Start time=143.76293on_beat=Falsetype=t1b0m7s5Start time=143.95413on_beat=Falsetype=b0m7s5Start time=143.76293
+type=t0b1m7s5Start time=144.14532on_beat=Falsetype=t1b1m7s5Start time=144.3365on_beat=Truet3=(0.306, 10)chord=NoneM7
+type=b1m7s5Start time=144.14532
+type=t0b2m7s5Start time=144.52769on_beat=Falsetype=t1b2m7s5Start time=144.71853on_beat=Falsetype=b2m7s5Start time=144.52769
+type=t0b3m7s5Start time=144.90936on_beat=Truet3=(0.618, 2)chord=NoneM7
+type=t1b3m7s5Start time=145.10087on_beat=Truet3=(0.309, 2)chord=NoneM7
+type=b3m7s5Start time=144.90936
+type=m7s5Start time=143.76293
+type=t0b0m8s5Start time=145.29239on_beat=Falsetype=t1b0m8s5Start time=145.4827on_beat=Falsetype=b0m8s5Start time=145.29239
+type=t0b1m8s5Start time=145.67302on_beat=Truet3=(0.3475, 2)chord=NoneM7
+type=t1b1m8s5Start time=145.86553on_beat=Falsetype=b1m8s5Start time=145.67302
+type=t0b2m8s5Start time=146.05804on_beat=Falsetype=t1b2m8s5Start time=146.24852on_beat=Falsetype=b2m8s5Start time=146.05804
+type=t0b3m8s5Start time=146.43899on_beat=Falsetype=t1b3m8s5Start time=146.62843on_beat=Falsetype=b3m8s5Start time=146.43899
+type=m8s5Start time=145.29239
+type=t0b0m9s5Start time=146.81788on_beat=Falsetype=t1b0m9s5Start time=147.00681on_beat=Falsetype=b0m9s5Start time=146.81788
+type=t0b1m9s5Start time=147.19574on_beat=Truet3=(0.345, 1)chord=None
+type=t1b1m9s5Start time=147.38568on_beat=Truet3=(0.345, 1)chord=None
+type=b1m9s5Start time=147.19574
+type=t0b2m9s5Start time=147.57561on_beat=Truet3=(0.1725, 1)chord=None
+type=t1b2m9s5Start time=147.76537on_beat=Truet3=(0.887, 1)chord=None
+type=b2m9s5Start time=147.57561
+type=t0b3m9s5Start time=147.95513on_beat=Falsetype=t1b3m9s5Start time=148.14708on_beat=Falsetype=b3m9s5Start time=147.95513
+type=m9s5Start time=146.81788
+type=t0b0m10s5Start time=148.33903on_beat=Falsetype=t1b0m10s5Start time=148.53013on_beat=Falsetype=b0m10s5Start time=148.33903
+type=t0b1m10s5Start time=148.72123on_beat=Falsetype=t1b1m10s5Start time=148.91555on_beat=Falsetype=b1m10s5Start time=148.72123
+type=t0b2m10s5Start time=149.10986on_beat=Falsetype=t1b2m10s5Start time=149.30586on_beat=Falsetype=b2m10s5Start time=149.10986
+type=t0b3m10s5Start time=149.50186on_beat=Falsetype=t1b3m10s5Start time=149.69634on_beat=Truet3=(0.433, 0)chord=NoneM7
+type=b3m10s5Start time=149.50186
+type=m10s5Start time=148.33903
+type=t0b0m11s5Start time=149.89081on_beat=Falsetype=t1b0m11s5Start time=150.0836on_beat=Falsetype=b0m11s5Start time=149.89081
+type=t0b1m11s5Start time=150.27638on_beat=Falsetype=t1b1m11s5Start time=150.46814on_beat=Falsetype=b1m11s5Start time=150.27638
+type=t0b2m11s5Start time=150.6599on_beat=Falsetype=t1b2m11s5Start time=150.85031on_beat=Falsetype=b2m11s5Start time=150.6599
+type=t0b3m11s5Start time=151.04072on_beat=Truet3=(0.3915, 7)chord=NoneM7
+type=t1b3m11s5Start time=151.23078on_beat=Falsetype=b3m11s5Start time=151.04072
+type=m11s5Start time=149.89081
+type=t0b0m12s5Start time=151.42085on_beat=Falsetype=t1b0m12s5Start time=151.61024on_beat=Falsetype=b0m12s5Start time=151.42085
+type=t0b1m12s5Start time=151.79963on_beat=Truet3=(0.3435, 5)chord=None
+type=t1b1m12s5Start time=151.98733on_beat=Truet3=(0.993, 2)chord=None
+type=b1m12s5Start time=151.79963
+type=t0b2m12s5Start time=152.17503on_beat=Truet3=(0.4965, 2)chord=None
+type=t1b2m12s5Start time=152.36324on_beat=Falsetype=b2m12s5Start time=152.17503
+type=t0b3m12s5Start time=152.55145on_beat=Falsetype=t1b3m12s5Start time=152.74068on_beat=Falsetype=b3m12s5Start time=152.55145
+type=m12s5Start time=151.42085
+type=t0b0m13s5Start time=152.92991on_beat=Falsetype=t1b0m13s5Start time=153.11966on_beat=Truet3=(0.422, 0)chord=None
+type=b0m13s5Start time=152.92991
+type=t0b1m13s5Start time=153.3094on_beat=Truet3=(0.2915, 6)chord=None
+type=t1b1m13s5Start time=153.50035on_beat=Falsetype=b1m13s5Start time=153.3094
+type=t0b2m13s5Start time=153.69129on_beat=Falsetype=t1b2m13s5Start time=153.88106on_beat=Falsetype=b2m13s5Start time=153.69129
+type=t0b3m13s5Start time=154.07083on_beat=Truet3=(0.736, 7)chord=None
+type=t1b3m13s5Start time=154.26043on_beat=Truet3=(0.368, 7)chord=None
+type=b3m13s5Start time=154.07083
+type=m13s5Start time=152.92991
+type=t0b0m14s5Start time=154.45004on_beat=Falsetype=t1b0m14s5Start time=154.64068on_beat=Falsetype=b0m14s5Start time=154.45004
+type=t0b1m14s5Start time=154.83131on_beat=Truet3=(0.1945, 3)chord=None
+type=t1b1m14s5Start time=155.02246on_beat=Truet3=(0.4745, 6)chord=None
+type=b1m14s5Start time=154.83131
+type=t0b2m14s5Start time=155.21361on_beat=Truet3=(0.405, 6)chord=None
+type=t1b2m14s5Start time=155.4046on_beat=Truet3=(0.956, 3)chord=None
+type=b2m14s5Start time=155.21361
+type=t0b3m14s5Start time=155.59559on_beat=Truet3=(0.478, 3)chord=None
+type=t1b3m14s5Start time=155.78744on_beat=Falsetype=b3m14s5Start time=155.59559
+type=m14s5Start time=154.45004
+type=t0b0m15s5Start time=155.97928on_beat=Falsetype=t1b0m15s5Start time=156.17045on_beat=Falsetype=b0m15s5Start time=155.97928
+type=t0b1m15s5Start time=156.36163on_beat=Falsetype=t1b1m15s5Start time=156.55434on_beat=Falsetype=b1m15s5Start time=156.36163
+type=t0b2m15s5Start time=156.74704on_beat=Truet3=(0.4915, 7)chord=None
+type=t1b2m15s5Start time=156.93908on_beat=Truet3=(0.468, 11)chord=None
+type=b2m15s5Start time=156.74704
+type=t0b3m15s5Start time=157.13112on_beat=Truet3=(0.35, 2)chord=None
+type=t1b3m15s5Start time=157.3218on_beat=Falsetype=b3m15s5Start time=157.13112
+type=m15s5Start time=155.97928
+type=t0b0m16s5Start time=157.51249on_beat=Truet3=(0.471, 0)chord=None
+type=t1b0m16s5Start time=157.70437on_beat=Truet3=(0.555, 3)chord=None
+type=b0m16s5Start time=157.51249
+type=t0b1m16s5Start time=157.89625on_beat=Falsetype=t1b1m16s5Start time=158.08865on_beat=Falsetype=b1m16s5Start time=157.89625
+type=t0b2m16s5Start time=158.28104on_beat=Falsetype=t1b2m16s5Start time=158.47226on_beat=Falsetype=b2m16s5Start time=158.28104
+type=t0b3m16s5Start time=158.66347on_beat=Falsetype=t1b3m16s5Start time=158.85401on_beat=Falsetype=b3m16s5Start time=158.66347
+type=m16s5Start time=157.51249
+type=t0b0m17s5Start time=159.04454on_beat=Falsetype=t1b0m17s5Start time=159.23406on_beat=Falsetype=b0m17s5Start time=159.04454
+type=t0b1m17s5Start time=159.42358on_beat=Falsetype=t1b1m17s5Start time=159.6126on_beat=Falsetype=b1m17s5Start time=159.42358
+type=t0b2m17s5Start time=159.80161on_beat=Falsetype=t1b2m17s5Start time=159.99164on_beat=Truet3=(0.4465, 8)chord=None
+type=b2m17s5Start time=159.80161
+type=t0b3m17s5Start time=160.18166on_beat=Truet3=(0.46, 3)chord=NoneM7
+type=t1b3m17s5Start time=160.37017on_beat=Truet3=(0.41, 1)chord=NoneM7
+type=b3m17s5Start time=160.18166
+type=m17s5Start time=159.04454
+type=t0b0m18s5Start time=160.55867on_beat=Falsetype=t1b0m18s5Start time=160.74565on_beat=Falsetype=b0m18s5Start time=160.55867
+type=t0b1m18s5Start time=160.93263on_beat=Falsetype=t1b1m18s5Start time=161.12147on_beat=Falsetype=b1m18s5Start time=160.93263
+type=t0b2m18s5Start time=161.31031on_beat=Falsetype=t1b2m18s5Start time=161.49762on_beat=Truet3=(0.4895, 8)chord=None
+type=b2m18s5Start time=161.31031
+type=t0b3m18s5Start time=161.68493on_beat=Falsetype=t1b3m18s5Start time=161.87343on_beat=Falsetype=b3m18s5Start time=161.68493
+type=m18s5Start time=160.55867
+type=t0b0m19s5Start time=162.06194on_beat=Falsetype=t1b0m19s5Start time=162.25111on_beat=Truet3=(0.965, 0)chord=NoneM7
+type=b0m19s5Start time=162.06194
+type=t0b1m19s5Start time=162.44029on_beat=Truet3=(0.32166666666666666, 0)chord=NoneM7
+type=t1b1m19s5Start time=162.63065on_beat=Falsetype=b1m19s5Start time=162.44029
+type=t0b2m19s5Start time=162.82102on_beat=Falsetype=t1b2m19s5Start time=163.01223on_beat=Falsetype=b2m19s5Start time=162.82102
+type=t0b3m19s5Start time=163.20344on_beat=Falsetype=t1b3m19s5Start time=163.39465on_beat=Falsetype=b3m19s5Start time=163.20344
+type=m19s5Start time=162.06194
+type=s6Start time=164.35509
+type=t0b0m0s6Start time=165.12666on_beat=Truet3=(0.567, 9)chord=None
+type=t1b0m0s6Start time=165.31768on_beat=Truet3=(0.2835, 9)chord=None
+type=b0m0s6Start time=165.12666
+type=t0b1m0s6Start time=165.50869on_beat=Truet3=(0.34, 3)chord=None
+type=t1b1m0s6Start time=165.69953on_beat=Truet3=(0.17, 3)chord=None
+type=b1m0s6Start time=165.50869
+type=t0b2m0s6Start time=165.89037on_beat=Falsetype=t1b2m0s6Start time=166.08238on_beat=Truet3=(0.45, 8)chord=NoneM7
+type=b2m0s6Start time=165.89037
+type=t0b3m0s6Start time=166.2744on_beat=Falsetype=t1b3m0s6Start time=166.46555on_beat=Falsetype=b3m0s6Start time=166.2744
+type=m0s6Start time=165.12666
+type=t0b0m1s6Start time=166.6567on_beat=Falsetype=t1b0m1s6Start time=166.84682on_beat=Falsetype=b0m1s6Start time=166.6567
+type=t0b1m1s6Start time=167.03694on_beat=Falsetype=t1b1m1s6Start time=167.22688on_beat=Truet3=(0.171, 8)chord=None
+type=b1m1s6Start time=167.03694
+type=t0b2m1s6Start time=167.41682on_beat=Truet3=(0.85, 8)chord=None
+type=t1b2m1s6Start time=167.60811on_beat=Truet3=(0.425, 8)chord=None
+type=b2m1s6Start time=167.41682
+type=t0b3m1s6Start time=167.79939on_beat=Falsetype=t1b3m1s6Start time=167.991on_beat=Falsetype=b3m1s6Start time=167.79939
+type=m1s6Start time=166.6567
+type=t0b0m2s6Start time=168.18261on_beat=Falsetype=t1b0m2s6Start time=168.37387on_beat=Truet3=(0.4435, 8)chord=None
+type=b0m2s6Start time=168.18261
+type=t0b1m2s6Start time=168.56513on_beat=Truet3=(0.3825, 0)chord=None
+type=t1b1m2s6Start time=168.75604on_beat=Falsetype=b1m2s6Start time=168.56513
+type=t0b2m2s6Start time=168.94695on_beat=Falsetype=t1b2m2s6Start time=169.13767on_beat=Falsetype=b2m2s6Start time=168.94695
+type=t0b3m2s6Start time=169.3284on_beat=Truet3=(0.571, 4)chord=None
+type=t1b3m2s6Start time=169.51945on_beat=Falsetype=b3m2s6Start time=169.3284
+type=m2s6Start time=168.18261
+type=t0b0m3s6Start time=169.7105on_beat=Falsetype=t1b0m3s6Start time=169.90307on_beat=Falsetype=b0m3s6Start time=169.7105
+type=t0b1m3s6Start time=170.09563on_beat=Falsetype=t1b1m3s6Start time=170.28682on_beat=Truet3=(0.806, 8)chord=None
+type=b1m3s6Start time=170.09563
+type=t0b2m3s6Start time=170.47802on_beat=Truet3=(0.403, 8)chord=None
+type=t1b2m3s6Start time=170.66937on_beat=Falsetype=b2m3s6Start time=170.47802
+type=t0b3m3s6Start time=170.86072on_beat=Falsetype=t1b3m3s6Start time=171.05121on_beat=Falsetype=b3m3s6Start time=170.86072
+type=m3s6Start time=169.7105
+type=t0b0m4s6Start time=171.2417on_beat=Falsetype=t1b0m4s6Start time=171.43217on_beat=Falsetype=b0m4s6Start time=171.2417
+type=t0b1m4s6Start time=171.62265on_beat=Falsetype=t1b1m4s6Start time=171.81379on_beat=Truet3=(0.688, 4)chord=NoneM7
+type=b1m4s6Start time=171.62265
+type=t0b2m4s6Start time=172.00493on_beat=Truet3=(0.344, 4)chord=NoneM7
+type=t1b2m4s6Start time=172.19537on_beat=Falsetype=b2m4s6Start time=172.00493
+type=t0b3m4s6Start time=172.38582on_beat=Falsetype=t1b3m4s6Start time=172.57473on_beat=Falsetype=b3m4s6Start time=172.38582
+type=m4s6Start time=171.2417
+type=t0b0m5s6Start time=172.76364on_beat=Falsetype=t1b0m5s6Start time=172.95389on_beat=Falsetype=b0m5s6Start time=172.76364
+type=t0b1m5s6Start time=173.14414on_beat=Falsetype=t1b1m5s6Start time=173.3342on_beat=Falsetype=b1m5s6Start time=173.14414
+type=t0b2m5s6Start time=173.52426on_beat=Falsetype=t1b2m5s6Start time=173.71415on_beat=Falsetype=b2m5s6Start time=173.52426
+type=t0b3m5s6Start time=173.90403on_beat=Truet3=(0.3475, 4)chord=None
+type=t1b3m5s6Start time=174.09406on_beat=Truet3=(0.461, 1)chord=None
+type=b3m5s6Start time=173.90403
+type=m5s6Start time=172.76364
+type=t0b0m6s6Start time=174.2841on_beat=Falsetype=t1b0m6s6Start time=174.47361on_beat=Falsetype=b0m6s6Start time=174.2841
+type=t0b1m6s6Start time=174.66312on_beat=Falsetype=t1b1m6s6Start time=174.85346on_beat=Falsetype=b1m6s6Start time=174.66312
+type=t0b2m6s6Start time=175.0438on_beat=Falsetype=t1b2m6s6Start time=175.23446on_beat=Falsetype=b2m6s6Start time=175.0438
+type=t0b3m6s6Start time=175.42512on_beat=Falsetype=t1b3m6s6Start time=175.61594on_beat=Falsetype=b3m6s6Start time=175.42512
+type=m6s6Start time=174.2841
+type=t0b0m7s6Start time=175.80676on_beat=Truet3=(0.611, 8)chord=None
+type=t1b0m7s6Start time=175.99773on_beat=Falsetype=b0m7s6Start time=175.80676
+type=t0b1m7s6Start time=176.1887on_beat=Falsetype=t1b1m7s6Start time=176.38051on_beat=Truet3=(0.549, 0)chord=None
+type=b1m7s6Start time=176.1887
+type=t0b2m7s6Start time=176.57231on_beat=Truet3=(0.2745, 0)chord=None
+type=t1b2m7s6Start time=176.76343on_beat=Falsetype=b2m7s6Start time=176.57231
+type=t0b3m7s6Start time=176.95455on_beat=Falsetype=t1b3m7s6Start time=177.14498on_beat=Falsetype=b3m7s6Start time=176.95455
+type=m7s6Start time=175.80676
+type=t0b0m8s6Start time=177.3354on_beat=Falsetype=t1b0m8s6Start time=177.52447on_beat=Falsetype=b0m8s6Start time=177.3354
+type=t0b1m8s6Start time=177.71354on_beat=Truet3=(0.246, 6)chord=None
+type=t1b1m8s6Start time=177.90361on_beat=Truet3=(0.953, 11)chord=None
+type=b1m8s6Start time=177.71354
+type=t0b2m8s6Start time=178.09368on_beat=Falsetype=t1b2m8s6Start time=178.28222on_beat=Falsetype=b2m8s6Start time=178.09368
+type=t0b3m8s6Start time=178.47076on_beat=Falsetype=t1b3m8s6Start time=178.65929on_beat=Truet3=(0.3945, 0)chord=Nonem7
+type=b3m8s6Start time=178.47076
+type=m8s6Start time=177.3354
+type=t0b0m9s6Start time=178.84782on_beat=Falsetype=t1b0m9s6Start time=179.03787on_beat=Falsetype=b0m9s6Start time=178.84782
+type=t0b1m9s6Start time=179.22791on_beat=Truet3=(0.4855, 3)chord=None
+type=t1b1m9s6Start time=179.41728on_beat=Truet3=(0.582, 1)chord=None
+type=b1m9s6Start time=179.22791
+type=t0b2m9s6Start time=179.60664on_beat=Falsetype=t1b2m9s6Start time=179.79616on_beat=Falsetype=b2m9s6Start time=179.60664
+type=t0b3m9s6Start time=179.98569on_beat=Falsetype=t1b3m9s6Start time=180.17639on_beat=Falsetype=b3m9s6Start time=179.98569
+type=m9s6Start time=178.84782
+type=t0b0m10s6Start time=180.3671on_beat=Falsetype=t1b0m10s6Start time=180.55695on_beat=Falsetype=b0m10s6Start time=180.3671
+type=t0b1m10s6Start time=180.7468on_beat=Falsetype=t1b1m10s6Start time=180.938on_beat=Truet3=(0.92, 7)chord=None
+type=b1m10s6Start time=180.7468
+type=t0b2m10s6Start time=181.12919on_beat=Truet3=(0.46, 7)chord=None
+type=t1b2m10s6Start time=181.3219on_beat=Falsetype=b2m10s6Start time=181.12919
+type=t0b3m10s6Start time=181.51461on_beat=Falsetype=t1b3m10s6Start time=181.70376on_beat=Falsetype=b3m10s6Start time=181.51461
+type=m10s6Start time=180.3671
+type=t0b0m11s6Start time=181.89292on_beat=Falsetype=t1b0m11s6Start time=182.08071on_beat=Falsetype=b0m11s6Start time=181.89292
+type=t0b1m11s6Start time=182.26849on_beat=Falsetype=t1b1m11s6Start time=182.45408on_beat=Falsetype=b1m11s6Start time=182.26849
+type=t0b2m11s6Start time=182.63966on_beat=Truet3=(0.441, 0)chord=None
+type=t1b2m11s6Start time=182.82421on_beat=Falsetype=b2m11s6Start time=182.63966
+type=t0b3m11s6Start time=183.00877on_beat=Falsetype=t1b3m11s6Start time=183.19214on_beat=Truet3=(0.4945, 4)chord=None
+type=b3m11s6Start time=183.00877
+type=m11s6Start time=181.89292
+type=t0b0m12s6Start time=183.3755on_beat=Falsetype=t1b0m12s6Start time=183.55818on_beat=Falsetype=b0m12s6Start time=183.3755
+type=t0b1m12s6Start time=183.74086on_beat=Falsetype=t1b1m12s6Start time=183.92251on_beat=Falsetype=b1m12s6Start time=183.74086
+type=t0b2m12s6Start time=184.10416on_beat=Truet3=(0.204, 5)chord=None
+type=t1b2m12s6Start time=184.28698on_beat=Truet3=(0.204, 5)chord=None
+type=b2m12s6Start time=184.10416
+type=t0b3m12s6Start time=184.46981on_beat=Truet3=(0.204, 5)chord=None
+type=t1b3m12s6Start time=184.65279on_beat=Truet3=(0.204, 5)chord=None
+type=b3m12s6Start time=184.46981
+type=m12s6Start time=183.3755
+type=t0b0m13s6Start time=184.83577on_beat=Truet3=(0.204, 5)chord=None
+type=t1b0m13s6Start time=185.02128on_beat=Truet3=(0.204, 5)chord=None
+type=b0m13s6Start time=184.83577
+type=t0b1m13s6Start time=185.20678on_beat=Truet3=(0.204, 5)chord=None
+type=t1b1m13s6Start time=185.39564on_beat=Truet3=(0.102, 5)chord=None
+type=b1m13s6Start time=185.20678
+type=t0b2m13s6Start time=185.58451on_beat=Falsetype=t1b2m13s6Start time=185.77302on_beat=Falsetype=b2m13s6Start time=185.58451
+type=t0b3m13s6Start time=185.96154on_beat=Falsetype=t1b3m13s6Start time=186.14868on_beat=Falsetype=b3m13s6Start time=185.96154
+type=m13s6Start time=184.83577
+type=t0b0m14s6Start time=186.33582on_beat=Truet3=(0.575, 0)chord=None
+type=t1b0m14s6Start time=186.52227on_beat=Truet3=(0.575, 0)chord=None
+type=b0m14s6Start time=186.33582
+type=t0b1m14s6Start time=186.70872on_beat=Truet3=(0.575, 0)chord=None
+type=t1b1m14s6Start time=186.89616on_beat=Truet3=(0.575, 0)chord=None
+type=b1m14s6Start time=186.70872
+type=t0b2m14s6Start time=187.0836on_beat=Truet3=(0.575, 0)chord=None
+type=t1b2m14s6Start time=187.2727on_beat=Truet3=(0.575, 0)chord=None
+type=b2m14s6Start time=187.0836
+type=t0b3m14s6Start time=187.4618on_beat=Truet3=(0.575, 0)chord=None
+type=t1b3m14s6Start time=187.64817on_beat=Falsetype=b3m14s6Start time=187.4618
+type=m14s6Start time=186.33582
+type=s7Start time=188.20117
+type=t0b0m0s7Start time=188.5684on_beat=Falsetype=t1b0m0s7Start time=188.75064on_beat=Falsetype=b0m0s7Start time=188.5684
+type=t0b1m0s7Start time=188.93288on_beat=Falsetype=t1b1m0s7Start time=189.11627on_beat=Falsetype=b1m0s7Start time=188.93288
+type=t0b2m0s7Start time=189.29966on_beat=Truet3=(0.636, 4)chord=NoneM7
+type=t1b2m0s7Start time=189.48253on_beat=Truet3=(0.636, 4)chord=NoneM7
+type=b2m0s7Start time=189.29966
+type=t0b3m0s7Start time=189.66539on_beat=Truet3=(0.636, 4)chord=NoneM7
+type=t1b3m0s7Start time=189.84923on_beat=Falsetype=b3m0s7Start time=189.66539
+type=m0s7Start time=188.5684
+type=t0b0m1s7Start time=190.03307on_beat=Truet3=(0.504, 4)chord=NoneM7
+type=t1b0m1s7Start time=190.21941on_beat=Truet3=(0.252, 4)chord=NoneM7
+type=b0m1s7Start time=190.03307
+type=t0b1m1s7Start time=190.40575on_beat=Truet3=(0.549, 4)chord=None
+type=t1b1m1s7Start time=190.59189on_beat=Truet3=(0.2745, 4)chord=None
+type=b1m1s7Start time=190.40575
+type=t0b2m1s7Start time=190.77804on_beat=Truet3=(0.316, 0)chord=Nonem7
+type=t1b2m1s7Start time=190.9682on_beat=Truet3=(0.862, 4)chord=NoneMinor
+type=b2m1s7Start time=190.77804
+type=t0b3m1s7Start time=191.15835on_beat=Truet3=(0.431, 4)chord=NoneMinor
+type=t1b3m1s7Start time=191.34848on_beat=Falsetype=b3m1s7Start time=191.15835
+type=m1s7Start time=190.03307
+type=t0b0m2s7Start time=191.53861on_beat=Truet3=(0.208, 7)chord=None
+type=t1b0m2s7Start time=191.72719on_beat=Truet3=(0.302, 2)chord=None
+type=b0m2s7Start time=191.53861
+type=t0b1m2s7Start time=191.91578on_beat=Falsetype=t1b1m2s7Start time=192.10433on_beat=Falsetype=b1m2s7Start time=191.91578
+type=t0b2m2s7Start time=192.29289on_beat=Falsetype=t1b2m2s7Start time=192.47872on_beat=Falsetype=b2m2s7Start time=192.29289
+type=t0b3m2s7Start time=192.66456on_beat=Truet3=(0.923, 2)chord=NoneMinor
+type=t1b3m2s7Start time=192.8502on_beat=Truet3=(0.923, 2)chord=NoneMinor
+type=b3m2s7Start time=192.66456
+type=m2s7Start time=191.53861
+type=t0b0m3s7Start time=193.03584on_beat=Falsetype=t1b0m3s7Start time=193.21927on_beat=Falsetype=b0m3s7Start time=193.03584
+type=t0b1m3s7Start time=193.40269on_beat=Falsetype=t1b1m3s7Start time=193.58071on_beat=Falsetype=b1m3s7Start time=193.40269
+type=t0b2m3s7Start time=193.75873on_beat=Falsetype=t1b2m3s7Start time=193.94009on_beat=Falsetype=b2m3s7Start time=193.75873
+type=t0b3m3s7Start time=194.12146on_beat=Falsetype=t1b3m3s7Start time=194.30364on_beat=Falsetype=b3m3s7Start time=194.12146
+type=m3s7Start time=193.03584
+type=t0b0m4s7Start time=194.48582on_beat=Falsetype=t1b0m4s7Start time=194.66698on_beat=Falsetype=b0m4s7Start time=194.48582
+type=t0b1m4s7Start time=194.84814on_beat=Falsetype=t1b1m4s7Start time=195.03045on_beat=Falsetype=b1m4s7Start time=194.84814
+type=t0b2m4s7Start time=195.21277on_beat=Falsetype=t1b2m4s7Start time=195.39592on_beat=Falsetype=b2m4s7Start time=195.21277
+type=t0b3m4s7Start time=195.57906on_beat=Truet3=(0.752, 7)chord=Nonem7
+type=t1b3m4s7Start time=195.76354on_beat=Truet3=(0.752, 7)chord=Nonem7
+type=b3m4s7Start time=195.57906
+type=m4s7Start time=194.48582
+type=t0b0m5s7Start time=195.94802on_beat=Truet3=(0.376, 7)chord=Nonem7
+type=t1b0m5s7Start time=196.13417on_beat=Falsetype=b0m5s7Start time=195.94802
+type=t0b1m5s7Start time=196.32031on_beat=Falsetype=t1b1m5s7Start time=196.50442on_beat=Falsetype=b1m5s7Start time=196.32031
+type=t0b2m5s7Start time=196.68853on_beat=Falsetype=t1b2m5s7Start time=196.86992on_beat=Falsetype=b2m5s7Start time=196.68853
+type=t0b3m5s7Start time=197.05131on_beat=Falsetype=t1b3m5s7Start time=197.23689on_beat=Falsetype=b3m5s7Start time=197.05131
+type=m5s7Start time=195.94802
+type=t0b0m6s7Start time=197.42246on_beat=Truet3=(0.899, 7)chord=None
+type=t1b0m6s7Start time=197.61055on_beat=Truet3=(0.899, 7)chord=None
+type=b0m6s7Start time=197.42246
+type=t0b1m6s7Start time=197.79863on_beat=Truet3=(0.4495, 7)chord=None
+type=t1b1m6s7Start time=197.98652on_beat=Truet3=(0.645, 0)chord=NoneMajor
+type=b1m6s7Start time=197.79863
+type=t0b2m6s7Start time=198.17441on_beat=Falsetype=t1b2m6s7Start time=198.3628on_beat=Falsetype=b2m6s7Start time=198.17441
+type=t0b3m6s7Start time=198.55118on_beat=Falsetype=t1b3m6s7Start time=198.74022on_beat=Falsetype=b3m6s7Start time=198.55118
+type=m6s7Start time=197.42246
+type=t0b0m7s7Start time=198.92927on_beat=Truet3=(0.437, 0)chord=None
+type=t1b0m7s7Start time=199.12217on_beat=Truet3=(0.437, 0)chord=None
+type=b0m7s7Start time=198.92927
+type=t0b1m7s7Start time=199.31508on_beat=Truet3=(0.2185, 0)chord=None
+type=t1b1m7s7Start time=199.51168on_beat=Truet3=(0.538, 0)chord=None
+type=b1m7s7Start time=199.31508
+type=t0b2m7s7Start time=199.70829on_beat=Truet3=(0.538, 0)chord=None
+type=t1b2m7s7Start time=199.90175on_beat=Truet3=(0.538, 0)chord=None
+type=b2m7s7Start time=199.70829
+type=t0b3m7s7Start time=200.09521on_beat=Truet3=(0.538, 0)chord=None
+type=t1b3m7s7Start time=200.28637on_beat=Falsetype=b3m7s7Start time=200.09521
+type=m7s7Start time=198.92927
+type=s8Start time=200.86031
+type=t0b0m0s8Start time=202.02624on_beat=Truet3=(0.4595, 5)chord=NoneM7
+type=t1b0m0s8Start time=202.21665on_beat=Truet3=(0.484, 7)chord=None
+type=b0m0s8Start time=202.02624
+type=t0b1m0s8Start time=202.40707on_beat=Truet3=(0.695, 5)chord=NoneM7
+type=t1b1m0s8Start time=202.60081on_beat=Truet3=(0.695, 5)chord=NoneM7
+type=b1m0s8Start time=202.40707
+type=t0b2m0s8Start time=202.79455on_beat=Truet3=(0.3475, 5)chord=NoneM7
+type=t1b2m0s8Start time=202.98689on_beat=Falsetype=b2m0s8Start time=202.79455
+type=t0b3m0s8Start time=203.17922on_beat=Falsetype=t1b3m0s8Start time=203.3715on_beat=Falsetype=b3m0s8Start time=203.17922
+type=m0s8Start time=202.02624
+type=t0b0m1s8Start time=203.56379on_beat=Truet3=(0.322, 6)chord=None
+type=t1b0m1s8Start time=203.75513on_beat=Truet3=(0.161, 6)chord=None
+type=b0m1s8Start time=203.56379
+type=t0b1m1s8Start time=203.94648on_beat=Truet3=(0.388, 0)chord=None
+type=t1b1m1s8Start time=204.13944on_beat=Truet3=(0.388, 0)chord=None
+type=b1m1s8Start time=203.94648
+type=t0b2m1s8Start time=204.3324on_beat=Falsetype=t1b2m1s8Start time=204.52809on_beat=Falsetype=b2m1s8Start time=204.3324
+type=m1s8Start time=203.56379
