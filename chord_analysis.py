@@ -6,7 +6,7 @@ noteDict = {0:"C", 1:"C#", 2:"D", 3:"", 4:"E", 5:"F", 6:"F#", 7:"G", 8:"G#", 9:"
 
 def intToNote(i):
 	j = i % 12
-	noteDict[i]
+	return noteDict[j]
 
 
 def properMod12(i):
