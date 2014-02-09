@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-import sys, flask, os
+import sys, flask, os, math
 from glob import glob
 from pprint import pprint
 import pygal
@@ -15,12 +15,19 @@ def normalize(array):
   mx = max(array)
   mn = min(array)
 
-  array = map(lambda x: x/mx, array)
+  array = map(norm, array)
   array = map(remove_lows, array)
   return array
 
+def norm(x):
+  x += 1
+  if x == 0:
+    return 0
+  else:
+    return math.log(x, 2)
+
 def remove_lows(element):
-  if element > .2:
+  if element > 0.4:
     return element
   else:
     return None
@@ -58,7 +65,37 @@ def get_json(filename):
 
 @app.route("/viz/notes/<name>")
 def get_viz(name):
-  return flask.render_template("notes.html", songjson=name+".json")
+  json_data = open("./templates/jsonfiles/" + name + ".json")
+  data = json.load(json_data)
+
+  #change format of data
+  new_data = [{"key":"c", "values":[]},
+              {"key":"c#", "values":[]},
+              {"key":"d", "values":[]},
+              {"key":"d#", "values":[]},
+              {"key":"e", "values":[]},
+              {"key":"f", "values":[]},
+              {"key":"f#", "values":[]},
+              {"key":"g", "values":[]},
+              {"key":"g#", "values":[]},
+              {"key":"a", "values":[]},
+              {"key":"a#", "values":[]},
+              {"key":"b", "values":[]}]
+
+  for section in data:
+    for bar in section['bars']:
+      for beat in bar['beats']:
+        for tatum in beat['tatums']:
+          pitches = tatum['pitch']
+          pitches = normalize(pitches)
+          time = tatum['start_time']
+
+          for dat, pitch in zip(new_data, pitches):
+            dat['values'].append({"size":1, "x":time, "y":pitch})
+
+  encoded = unidecode(json.dumps(new_data))
+  markup = flask.Markup(encoded)
+  return flask.render_template("notes.html", songjson=markup)
 
 @app.route("/viz/pygal/<name>/<start>/<end>")
 def pygal_graph(name, start, end):

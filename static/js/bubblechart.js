@@ -7,9 +7,11 @@ nv.addGraph(function() {
    chart.xAxis.tickFormat(d3.format('.02f'))
    chart.yAxis.tickFormat(d3.format('.02f'))
 
+   var data = getSongData()
+
    d3.select('#chart svg')
-       .datum(songData())
-     .transition().duration(500)
+       .datum(data)
+       .transition().duration(500)
        .call(chart);
 
    nv.utils.windowResize(chart.update);
@@ -18,22 +20,6 @@ nv.addGraph(function() {
  });
 
 
-
-
-
- /**************************************
-  * Simple test data generator
-  */
-
- function songData() { //# groups,# points per group
-     //data = {"c": [], "c#": [], "d": [], "d#": [], "e": [], "f": [],
-     //        "f#", [], "g", [], "g#", [], "a", [], "a#", [], "b", []}
-
-     data = []
-
-     //note_order = ["c", "c#", "d", "d#", "e", "f", "f#", "g", "g#", "a", "a#", "b"]
-
-     $.getJSON("../json/queen.json", function(d) {data = d})
-
-     return data;
+ function getSongData() { //# groups,# points per group
+     return songData;
  }
