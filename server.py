@@ -32,7 +32,7 @@ def norm(x, mx):
   #return math.log(x, 2)
 
 def remove_lows(element):
-  if element > 0.5:
+  if element > 0.2:
     return element
   else:
     return None
@@ -91,13 +91,22 @@ def get_viz(name):
     for bar in section['bars']:
       for beat in bar['beats']:
         for tatum in beat['tatums']:
+          if 'onBeat' in tatum:
+            onBeat = tatum['onBeat']
+          else:
+            onBeat = True
+
           pitches = tatum['pitch']
           pitches = normalize(pitches)
           time = tatum['start_time']
           loudness = 10 ** ( -0.01 * tatum['loudness'])
 
-          for dat, pitch in zip(new_data, pitches):
-            dat['values'].append({"size":loudness, "x":time, "y":pitch})
+          if onBeat:
+            for dat, pitch in zip(new_data, pitches):
+              dat['values'].append({"size":loudness, "x":time, "y":pitch})
+          else:
+            for dat, pitch in zip(new_data, pitches):
+              dat['values'].append({"size":loudness * 0.5, "x":time, "y":pitch})
 
   encoded = unidecode(json.dumps(new_data))
   markup = flask.Markup(encoded)
@@ -136,6 +145,72 @@ def pygal_graph(name, start, end):
   encoded = unidecode(rendered)
   markup = flask.Markup(encoded)
   return flask.render_template("graph.html", graph=markup)
+
+@app.route("/viz/beats/<name>/<start>/<end>")
+def pygal_beats(name, start, end):
+  json_data = open("./templates/jsonfiles/" + name + ".json")
+  data = json.load(json_data)
+  labels = ["on", "off"]
+  notes = [[],[]] # notes on / off beat
+  times = []
+
+  for section in data:
+    for bar in section['bars']:
+      for beat in bar['beats']:
+        for tatum in beat['tatums']:
+          pitches = tatum['pitch']
+          pitches = normalize(pitches)
+
+          loudness = 10 ** ( -0.01 * tatum['loudness'])
+
+          if tatum['onBeat']:
+            notes[0].append(loudness)
+            notes[1].append(None)
+          else:
+            notes[1].append(loudness)
+            notes[0].append(None)
+
+          time = tatum['start_time']
+          times.append(time)
+
+  #pprint(notes)
+
+  START = int(start)
+  FINISH = int(end)
+
+  chart = pygal.XY(stroke=False, style=RainbowStyle)
+  for i, note_data in enumerate(notes):
+    chart.add(labels[i], zip(times[START:FINISH], note_data[START:FINISH]))
+
+  rendered = chart.render()
+  encoded = unidecode(rendered)
+  markup = flask.Markup(encoded)
+  return flask.render_template("graph.html", graph=markup)
+
+
+
+@app.route("/viz/chord/<name>")
+def chord_clusters(name):
+  json_data = open("./templates/jsonfiles/" + name + ".json")
+  data = json.load(json_data)
+  new_data = []
+
+  for section in data:
+    for bar in section['bars']:
+      for beat in bar['beats']:
+        for tatum in beat['tatums']:
+          pitches = tatum['pitch']
+          #pitches = normalize(pitches)
+          loudness = tatum['loudness']
+
+          if 'chord' in tatum and tatum['chord'] != "None":
+            chord = tatum['chord']
+            for category, pitch in zip(note_labels, pitches):
+              new_data.append({'cluster': chord, 'radius':loudness * pitch, 'pitch': category})
+
+  encoded = unidecode(json.dumps(new_data, indent=4))
+  markup = flask.Markup(encoded)
+  return flask.render_template("chord.html", datajson=markup)
 
 
 

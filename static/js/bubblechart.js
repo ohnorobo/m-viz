@@ -1,3 +1,4 @@
+
 nv.addGraph(function() {
    var chart = nv.models.scatterChart()
                  .showDistX(true)
@@ -24,5 +25,26 @@ nv.addGraph(function() {
      return songData;
  }
 
+
+function embiggen_nth_element(data, n){
+  for (var index in data) {
+    var pitch = data[index];
+    var notes = pitch['values'];
+
+    var n_size = notes[n]['size'];
+    notes[n]['size'] = 10 * n_size;
+  }
+
+  //ensmallen prev notes?
+}
+
 var audioElement = document.getElementById('audio');
 console.log(audioElement);
+console.log(songData);
+console.log(songData[0]['values'].length);
+
+for (var n=0; n<songData[0]['values'].length; n++){
+  embiggen_nth_element(songData, n);
+}
+
+
