@@ -10,6 +10,10 @@ http://m-viz.herokuapp.com/viz/notes/loseyourself
 
 http://m-viz.herokuapp.com/viz/notes/heyya
 
+http://m-viz.herokuapp.com/viz/beats/newqueen/0/200
+
+http://m-viz.herokuapp.com/viz/notes/animarum
+
 
 install
 
